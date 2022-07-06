@@ -1,0 +1,16121 @@
+[
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			}
+		],
+		"w": 627,
+		"l": 559,
+		"g": 1186
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			}
+		],
+		"w": 228,
+		"l": 246,
+		"g": 474
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 70,
+		"l": 36,
+		"g": 106
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 56,
+		"l": 47,
+		"g": 103
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			}
+		],
+		"w": 48,
+		"l": 30,
+		"g": 78
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			}
+		],
+		"w": 37,
+		"l": 33,
+		"g": 70
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 40,
+		"l": 29,
+		"g": 69
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			}
+		],
+		"w": 35,
+		"l": 29,
+		"g": 64
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 34,
+		"l": 30,
+		"g": 64
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			}
+		],
+		"w": 36,
+		"l": 24,
+		"g": 60
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 26,
+		"l": 31,
+		"g": 57
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 23,
+		"l": 29,
+		"g": 52
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 26,
+		"l": 25,
+		"g": 51
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 21,
+		"l": 26,
+		"g": 47
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			}
+		],
+		"w": 19,
+		"l": 23,
+		"g": 42
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			}
+		],
+		"w": 23,
+		"l": 15,
+		"g": 38
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 14,
+		"l": 24,
+		"g": 38
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			}
+		],
+		"w": 19,
+		"l": 18,
+		"g": 37
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 20,
+		"l": 14,
+		"g": 34
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			}
+		],
+		"w": 14,
+		"l": 19,
+		"g": 33
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 14,
+		"l": 17,
+		"g": 31
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 14,
+		"l": 17,
+		"g": 31
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "King Slayer Peth",
+				"index": 28
+			}
+		],
+		"w": 17,
+		"l": 11,
+		"g": 28
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			}
+		],
+		"w": 15,
+		"l": 12,
+		"g": 27
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			}
+		],
+		"w": 15,
+		"l": 11,
+		"g": 26
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 12,
+		"l": 14,
+		"g": 26
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 13,
+		"l": 13,
+		"g": 26
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 9,
+		"l": 16,
+		"g": 25
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 12,
+		"l": 13,
+		"g": 25
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 7,
+		"l": 16,
+		"g": 23
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 9,
+		"l": 13,
+		"g": 22
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 9,
+		"l": 12,
+		"g": 21
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			}
+		],
+		"w": 13,
+		"l": 8,
+		"g": 21
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			}
+		],
+		"w": 5,
+		"l": 15,
+		"g": 20
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			}
+		],
+		"w": 11,
+		"l": 8,
+		"g": 19
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "schemaposse",
+				"index": 42
+			}
+		],
+		"w": 8,
+		"l": 11,
+		"g": 19
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 10,
+		"l": 8,
+		"g": 18
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 7,
+		"l": 10,
+		"g": 17
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 11,
+		"l": 6,
+		"g": 17
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 10,
+		"l": 6,
+		"g": 16
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			}
+		],
+		"w": 10,
+		"l": 6,
+		"g": 16
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 7,
+		"l": 8,
+		"g": 15
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			}
+		],
+		"w": 7,
+		"l": 8,
+		"g": 15
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Eskaytee1 Faker",
+				"index": 44
+			}
+		],
+		"w": 10,
+		"l": 5,
+		"g": 15
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 5,
+		"l": 9,
+		"g": 14
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 10,
+		"l": 4,
+		"g": 14
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 8,
+		"l": 6,
+		"g": 14
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 9,
+		"l": 5,
+		"g": 14
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			}
+		],
+		"w": 6,
+		"l": 8,
+		"g": 14
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 7,
+		"l": 6,
+		"g": 13
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 7,
+		"l": 6,
+		"g": 13
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 6,
+		"l": 7,
+		"g": 13
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 7,
+		"l": 6,
+		"g": 13
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			}
+		],
+		"w": 7,
+		"l": 6,
+		"g": 13
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			}
+		],
+		"w": 5,
+		"l": 8,
+		"g": 13
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Smiling Gopher32",
+				"index": 36
+			}
+		],
+		"w": 6,
+		"l": 7,
+		"g": 13
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			}
+		],
+		"w": 5,
+		"l": 8,
+		"g": 13
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 8,
+		"l": 4,
+		"g": 12
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Henlo I am Goat",
+				"index": 59
+			}
+		],
+		"w": 10,
+		"l": 2,
+		"g": 12
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 8,
+		"l": 4,
+		"g": 12
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 4,
+		"l": 7,
+		"g": 11
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 4,
+		"l": 7,
+		"g": 11
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 6,
+		"l": 5,
+		"g": 11
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 5,
+		"l": 6,
+		"g": 11
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 6,
+		"l": 5,
+		"g": 11
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 6,
+		"l": 4,
+		"g": 10
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 6,
+		"l": 4,
+		"g": 10
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 5,
+		"l": 5,
+		"g": 10
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 7,
+		"l": 3,
+		"g": 10
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 5,
+		"l": 5,
+		"g": 10
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 4,
+		"l": 5,
+		"g": 9
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 6,
+		"l": 3,
+		"g": 9
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Cardnal88",
+				"index": 58
+			}
+		],
+		"w": 5,
+		"l": 4,
+		"g": 9
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "GothicAlice",
+				"index": 74
+			}
+		],
+		"w": 6,
+		"l": 3,
+		"g": 9
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 7,
+		"l": 2,
+		"g": 9
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 5,
+		"l": 4,
+		"g": 9
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "PRJ Doublstuf",
+				"index": 75
+			}
+		],
+		"w": 5,
+		"l": 4,
+		"g": 9
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 6,
+		"l": 3,
+		"g": 9
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			}
+		],
+		"w": 5,
+		"l": 4,
+		"g": 9
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 5,
+		"l": 3,
+		"g": 8
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 4,
+		"l": 4,
+		"g": 8
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 4,
+		"l": 4,
+		"g": 8
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 4,
+		"l": 4,
+		"g": 8
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 5,
+		"l": 3,
+		"g": 8
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 5,
+		"l": 3,
+		"g": 8
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			}
+		],
+		"w": 5,
+		"l": 3,
+		"g": 8
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 5,
+		"l": 2,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 3,
+		"l": 4,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 6,
+		"l": 1,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 3,
+		"l": 4,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 3,
+		"l": 4,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "PixeICake",
+				"index": 55
+			}
+		],
+		"w": 2,
+		"l": 5,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 4,
+		"l": 3,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Freijords Might",
+				"index": 49
+			}
+		],
+		"w": 7,
+		"l": 0,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			},
+			{
+				"name": "FindTheSolucian",
+				"index": 52
+			}
+		],
+		"w": 3,
+		"l": 4,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 3,
+		"l": 4,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 5,
+		"l": 2,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Trïnïty",
+				"index": 53
+			}
+		],
+		"w": 5,
+		"l": 2,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "virtuality",
+				"index": 43
+			},
+			{
+				"name": "WX JINPING 1V9",
+				"index": 56
+			}
+		],
+		"w": 4,
+		"l": 3,
+		"g": 7
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 2,
+		"l": 4,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 4,
+		"l": 2,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 5,
+		"l": 1,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "pikachu0666",
+				"index": 82
+			}
+		],
+		"w": 3,
+		"l": 3,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "D23AfterImage",
+				"index": 69
+			}
+		],
+		"w": 3,
+		"l": 3,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 4,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 5,
+		"l": 1,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 2,
+		"l": 4,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 2,
+		"l": 4,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 5,
+		"l": 1,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 5,
+		"l": 1,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 4,
+		"l": 2,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 4,
+		"l": 2,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 4,
+		"l": 2,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 2,
+		"l": 4,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			},
+			{
+				"name": "FindTheSolucian",
+				"index": 52
+			},
+			{
+				"name": "PutricideX",
+				"index": 85
+			}
+		],
+		"w": 3,
+		"l": 3,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 5,
+		"l": 1,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 4,
+		"l": 2,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 3,
+		"l": 3,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "ElfWarrior123",
+				"index": 92
+			}
+		],
+		"w": 6,
+		"l": 0,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 4,
+		"l": 2,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "virtuality",
+				"index": 43
+			},
+			{
+				"name": "Comfortless",
+				"index": 93
+			}
+		],
+		"w": 4,
+		"l": 2,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			}
+		],
+		"w": 4,
+		"l": 2,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "HideYourMind",
+				"index": 79
+			}
+		],
+		"w": 5,
+		"l": 1,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "LessProfanity",
+				"index": 73
+			}
+		],
+		"w": 3,
+		"l": 3,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			}
+		],
+		"w": 4,
+		"l": 2,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "WX JINPING 1V9",
+				"index": 56
+			}
+		],
+		"w": 5,
+		"l": 1,
+		"g": 6
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 2,
+		"l": 3,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Emperor UwUumi",
+				"index": 40
+			}
+		],
+		"w": 4,
+		"l": 1,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 4,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 3,
+		"l": 2,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 4,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Fall3n Armour",
+				"index": 48
+			}
+		],
+		"w": 4,
+		"l": 1,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 3,
+		"l": 2,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 4,
+		"l": 1,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 3,
+		"l": 2,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 4,
+		"l": 1,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 5,
+		"l": 0,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 1,
+		"l": 4,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			},
+			{
+				"name": "pseudo l9 xd",
+				"index": 39
+			}
+		],
+		"w": 1,
+		"l": 4,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "ƒraise",
+				"index": 76
+			}
+		],
+		"w": 2,
+		"l": 3,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Pet Me Master",
+				"index": 72
+			}
+		],
+		"w": 3,
+		"l": 2,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 4,
+		"l": 1,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 3,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Emperor UwUumi",
+				"index": 40
+			}
+		],
+		"w": 1,
+		"l": 4,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 2,
+		"l": 3,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "pseudo l9 xd",
+				"index": 39
+			}
+		],
+		"w": 0,
+		"l": 5,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			}
+		],
+		"w": 2,
+		"l": 3,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			}
+		],
+		"w": 2,
+		"l": 3,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			}
+		],
+		"w": 2,
+		"l": 3,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 1,
+		"l": 4,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Gnartic Monkeys",
+				"index": 80
+			}
+		],
+		"w": 3,
+		"l": 2,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			}
+		],
+		"w": 2,
+		"l": 3,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "RedDragon9OOO",
+				"index": 97
+			}
+		],
+		"w": 1,
+		"l": 4,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Loveblind",
+				"index": 57
+			}
+		],
+		"w": 4,
+		"l": 1,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Blamesme",
+				"index": 81
+			}
+		],
+		"w": 3,
+		"l": 2,
+		"g": 5
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 3,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 4,
+		"l": 0,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 3,
+		"l": 1,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 1,
+		"l": 3,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 3,
+		"l": 1,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 1,
+		"l": 3,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 3,
+		"l": 1,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 1,
+		"l": 3,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 3,
+		"l": 1,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Need Mommy Gf",
+				"index": 71
+			}
+		],
+		"w": 0,
+		"l": 4,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			},
+			{
+				"name": "pseudo l9 xd",
+				"index": 39
+			},
+			{
+				"name": "ƒraise",
+				"index": 76
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 3,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			},
+			{
+				"name": "Pet Me Master",
+				"index": 72
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 3,
+		"l": 1,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			},
+			{
+				"name": "kschris",
+				"index": 61
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Fall3n Armour",
+				"index": 48
+			},
+			{
+				"name": "PixeICake",
+				"index": 55
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Trïnïty",
+				"index": 53
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HotCheesyPotato",
+				"index": 64
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "supportless",
+				"index": 91
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			}
+		],
+		"w": 1,
+		"l": 3,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "nurse cait",
+				"index": 50
+			}
+		],
+		"w": 1,
+		"l": 3,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "Oh Look Supper",
+				"index": 51
+			},
+			{
+				"name": "Aroe",
+				"index": 66
+			}
+		],
+		"w": 4,
+		"l": 0,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Oh Look Supper",
+				"index": 51
+			}
+		],
+		"w": 3,
+		"l": 1,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 4,
+		"l": 0,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			}
+		],
+		"w": 3,
+		"l": 1,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "im missing us",
+				"index": 63
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "im missing us",
+				"index": 63
+			},
+			{
+				"name": "turtleclaw",
+				"index": 68
+			}
+		],
+		"w": 2,
+		"l": 2,
+		"g": 4
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			},
+			{
+				"name": "Emperor UwUumi",
+				"index": 40
+			},
+			{
+				"name": "D23AfterImage",
+				"index": 69
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 3,
+		"l": 0,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 0,
+		"l": 3,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 0,
+		"l": 3,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 0,
+		"l": 3,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Qiyanu Reevés",
+				"index": 70
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "clamyboy19",
+				"index": 65
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			},
+			{
+				"name": "yyuuee",
+				"index": 60
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Lamboyant",
+				"index": 78
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 0,
+		"l": 3,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "pseudo l9 xd",
+				"index": 39
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Trïnïty",
+				"index": 53
+			},
+			{
+				"name": "WarHeat",
+				"index": 84
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Freijords Might",
+				"index": 49
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "The Grey Sack",
+				"index": 90
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "nurse cait",
+				"index": 50
+			}
+		],
+		"w": 0,
+		"l": 3,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 3,
+		"l": 0,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "Oh Look Supper",
+				"index": 51
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			},
+			{
+				"name": "YoMerryChristmas",
+				"index": 87
+			}
+		],
+		"w": 3,
+		"l": 0,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "JoeyLamemo",
+				"index": 62
+			},
+			{
+				"name": "Oh Look Dad",
+				"index": 67
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "JoeyLamemo",
+				"index": 62
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Pepsi Doge",
+				"index": 96
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 0,
+		"l": 3,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "turtleclaw",
+				"index": 68
+			}
+		],
+		"w": 3,
+		"l": 0,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "Loveblind",
+				"index": 57
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Loveblind",
+				"index": 57
+			}
+		],
+		"w": 3,
+		"l": 0,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "Loveblind",
+				"index": 57
+			}
+		],
+		"w": 2,
+		"l": 1,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Blamesme",
+				"index": 81
+			}
+		],
+		"w": 1,
+		"l": 2,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "im missing us",
+				"index": 63
+			}
+		],
+		"w": 3,
+		"l": 0,
+		"g": 3
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "xPsychKineticx",
+				"index": 98
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "xPsychKineticx",
+				"index": 98
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "TheTinball",
+				"index": 99
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "pikachu0666",
+				"index": 82
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "D23AfterImage",
+				"index": 69
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			},
+			{
+				"name": "TheTinball",
+				"index": 99
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Fall3n Armour",
+				"index": 48
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Need Mommy Gf",
+				"index": 71
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "God Alien",
+				"index": 88
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Freijords Might",
+				"index": 49
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Fall3n Armour",
+				"index": 48
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Qiyanu Reevés",
+				"index": 70
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Qiyanu Reevés",
+				"index": 70
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Qiyanu Reevés",
+				"index": 70
+			},
+			{
+				"name": "Need Mommy Gf",
+				"index": 71
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "ianace",
+				"index": 83
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			},
+			{
+				"name": "PutricideX",
+				"index": 85
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Emperor UwUumi",
+				"index": 40
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			},
+			{
+				"name": "FindTheSolucian",
+				"index": 52
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "PixeICake",
+				"index": 55
+			},
+			{
+				"name": "Cardnal88",
+				"index": 58
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "minty",
+				"index": 77
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "clamyboy19",
+				"index": 65
+			},
+			{
+				"name": "minty",
+				"index": 77
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "clamyboy19",
+				"index": 65
+			},
+			{
+				"name": "minty",
+				"index": 77
+			},
+			{
+				"name": "Lamboyant",
+				"index": 78
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "clamyboy19",
+				"index": 65
+			},
+			{
+				"name": "Lamboyant",
+				"index": 78
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "minty",
+				"index": 77
+			},
+			{
+				"name": "Lamboyant",
+				"index": 78
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			},
+			{
+				"name": "yyuuee",
+				"index": 60
+			},
+			{
+				"name": "kschris",
+				"index": 61
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "yyuuee",
+				"index": 60
+			},
+			{
+				"name": "kschris",
+				"index": 61
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Smiling Gopher32",
+				"index": 36
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Smiling Gopher32",
+				"index": 36
+			},
+			{
+				"name": "pseudo l9 xd",
+				"index": 39
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Smiling Gopher32",
+				"index": 36
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "WarHeat",
+				"index": 84
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Sertonix",
+				"index": 94
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "nurse cait",
+				"index": 50
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "nurse cait",
+				"index": 50
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "nurse cait",
+				"index": 50
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Xiao Lei Fang",
+				"index": 86
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Oh Look Supper",
+				"index": 51
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Eskaytee1 Faker",
+				"index": 44
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			},
+			{
+				"name": "YoMerryChristmas",
+				"index": 87
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			},
+			{
+				"name": "YoMerryChristmas",
+				"index": 87
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "Aroe",
+				"index": 66
+			},
+			{
+				"name": "TaIøn",
+				"index": 95
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "Aroe",
+				"index": 66
+			},
+			{
+				"name": "Oh Look Dad",
+				"index": 67
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "JoeyLamemo",
+				"index": 62
+			},
+			{
+				"name": "TaIøn",
+				"index": 95
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "Oh Look Dad",
+				"index": 67
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			},
+			{
+				"name": "Oh Look Dad",
+				"index": 67
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			},
+			{
+				"name": "Xiao Lei Fang",
+				"index": 86
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "LessProfanity",
+				"index": 73
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Pepsi Doge",
+				"index": 96
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Gnartic Monkeys",
+				"index": 80
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Gnartic Monkeys",
+				"index": 80
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "RedDragon9OOO",
+				"index": 97
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "turtleclaw",
+				"index": 68
+			},
+			{
+				"name": "HideYourMind",
+				"index": 79
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "turtleclaw",
+				"index": 68
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "supportless",
+				"index": 91
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "TaIøn",
+				"index": 95
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "virtuality",
+				"index": 43
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 2,
+		"l": 0,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			},
+			{
+				"name": "Sertonix",
+				"index": 94
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "HotCheesyPotato",
+				"index": 64
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "virtuality",
+				"index": 43
+			}
+		],
+		"w": 1,
+		"l": 1,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "im missing us",
+				"index": 63
+			}
+		],
+		"w": 0,
+		"l": 2,
+		"g": 2
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "xPsychKineticx",
+				"index": 98
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "xPsychKineticx",
+				"index": 98
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Need Mommy Gf",
+				"index": 71
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Emperor UwUumi",
+				"index": 40
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "ianace",
+				"index": 83
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			},
+			{
+				"name": "Emperor UwUumi",
+				"index": 40
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "TheTinball",
+				"index": 99
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "ßluę",
+				"index": 33
+			},
+			{
+				"name": "WhyCanINotGetANa",
+				"index": 38
+			},
+			{
+				"name": "TheTinball",
+				"index": 99
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TofuNovaChan",
+				"index": 54
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Emperor UwUumi",
+				"index": 40
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			},
+			{
+				"name": "Henlo I am Goat",
+				"index": 59
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "God Alien",
+				"index": 88
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "God Alien",
+				"index": 88
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "God Alien",
+				"index": 88
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "LuxAaria",
+				"index": 89
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Freijords Might",
+				"index": 49
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Log",
+				"index": 46
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "God Alien",
+				"index": 88
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Fall3n Armour",
+				"index": 48
+			},
+			{
+				"name": "The Grey Sack",
+				"index": 90
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Fall3n Armour",
+				"index": 48
+			},
+			{
+				"name": "The Grey Sack",
+				"index": 90
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			},
+			{
+				"name": "The Grey Sack",
+				"index": 90
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "macmilliantac50",
+				"index": 19
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Graddian",
+				"index": 10
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Houseparty456",
+				"index": 26
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "oD Korean",
+				"index": 41
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Emperor UwUumi",
+				"index": 40
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Freijords Might",
+				"index": 49
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Qiyanu Reevés",
+				"index": 70
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Qiyanu Reevés",
+				"index": 70
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Need Mommy Gf",
+				"index": 71
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Xihark",
+				"index": 30
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Fall3n Armour",
+				"index": 48
+			},
+			{
+				"name": "WarHeat",
+				"index": 84
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			},
+			{
+				"name": "God Alien",
+				"index": 88
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			},
+			{
+				"name": "King Slayer Peth",
+				"index": 28
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "IProPenguin",
+				"index": 5
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Freijords Might",
+				"index": 49
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			},
+			{
+				"name": "pseudo l9 xd",
+				"index": 39
+			},
+			{
+				"name": "supportless",
+				"index": 91
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Freijords Might",
+				"index": 49
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Freijords Might",
+				"index": 49
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Pet Me Master",
+				"index": 72
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "PixeICake",
+				"index": 55
+			},
+			{
+				"name": "The Grey Sack",
+				"index": 90
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Im Happy for you",
+				"index": 20
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "BuBBaSc2",
+				"index": 32
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			},
+			{
+				"name": "yyuuee",
+				"index": 60
+			},
+			{
+				"name": "HotCheesyPotato",
+				"index": 64
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			},
+			{
+				"name": "HotCheesyPotato",
+				"index": 64
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			},
+			{
+				"name": "HotCheesyPotato",
+				"index": 64
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			},
+			{
+				"name": "HotCheesyPotato",
+				"index": 64
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "clamyboy19",
+				"index": 65
+			},
+			{
+				"name": "minty",
+				"index": 77
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "yyuuee",
+				"index": 60
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "clamyboy19",
+				"index": 65
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "jemxas",
+				"index": 22
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "HotCheesyPotato",
+				"index": 64
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "ElfWarrior123",
+				"index": 92
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "yyuuee",
+				"index": 60
+			},
+			{
+				"name": "kschris",
+				"index": 61
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			},
+			{
+				"name": "kschris",
+				"index": 61
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			},
+			{
+				"name": "kschris",
+				"index": 61
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "yyuuee",
+				"index": 60
+			},
+			{
+				"name": "kschris",
+				"index": 61
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HolyJunow",
+				"index": 35
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			},
+			{
+				"name": "yyuuee",
+				"index": 60
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "yyuuee",
+				"index": 60
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "While Kong",
+				"index": 47
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "kschris",
+				"index": 61
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Smiling Gopher32",
+				"index": 36
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Shudas1000",
+				"index": 24
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Smiling Gopher32",
+				"index": 36
+			},
+			{
+				"name": "WarHeat",
+				"index": 84
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Comfortless",
+				"index": 93
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Trïnïty",
+				"index": 53
+			},
+			{
+				"name": "Cardnal88",
+				"index": 58
+			},
+			{
+				"name": "WarHeat",
+				"index": 84
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Grabby Boi",
+				"index": 45
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TheTrueBobRoss",
+				"index": 15
+			},
+			{
+				"name": "Fall3n Armour",
+				"index": 48
+			},
+			{
+				"name": "Cardnal88",
+				"index": 58
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "LuxAaria",
+				"index": 89
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "nurse cait",
+				"index": 50
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "nurse cait",
+				"index": 50
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "nurse cait",
+				"index": 50
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "ianace",
+				"index": 83
+			},
+			{
+				"name": "Xiao Lei Fang",
+				"index": 86
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Xiao Lei Fang",
+				"index": 86
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Xiao Lei Fang",
+				"index": 86
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			},
+			{
+				"name": "Oh Look Supper",
+				"index": 51
+			},
+			{
+				"name": "Aroe",
+				"index": 66
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			},
+			{
+				"name": "Oh Look Supper",
+				"index": 51
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Oh Look Supper",
+				"index": 51
+			},
+			{
+				"name": "Oh Look Dad",
+				"index": 67
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "AtlasJay26",
+				"index": 31
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "ianace",
+				"index": 83
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "The Dwegon",
+				"index": 37
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "JoeyLamemo",
+				"index": 62
+			},
+			{
+				"name": "Aroe",
+				"index": 66
+			},
+			{
+				"name": "TaIøn",
+				"index": 95
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "JoeyLamemo",
+				"index": 62
+			},
+			{
+				"name": "Aroe",
+				"index": 66
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "JoeyLamemo",
+				"index": 62
+			},
+			{
+				"name": "Aroe",
+				"index": 66
+			},
+			{
+				"name": "Oh Look Dad",
+				"index": 67
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "YoMerryChristmas",
+				"index": 87
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "JoeyLamemo",
+				"index": 62
+			},
+			{
+				"name": "Oh Look Dad",
+				"index": 67
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "ianace",
+				"index": 83
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			},
+			{
+				"name": "ianace",
+				"index": 83
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "AZephyr",
+				"index": 23
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			},
+			{
+				"name": "JoeyLamemo",
+				"index": 62
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			},
+			{
+				"name": "Eskaytee1 Faker",
+				"index": 44
+			},
+			{
+				"name": "Xiao Lei Fang",
+				"index": 86
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "im outjungled",
+				"index": 25
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "LuxAaria",
+				"index": 89
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "LessProfanity",
+				"index": 73
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "RadicalDad",
+				"index": 29
+			},
+			{
+				"name": "Pepsi Doge",
+				"index": 96
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "Pepsi Doge",
+				"index": 96
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "LuxAaria",
+				"index": 89
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "LuxAaria",
+				"index": 89
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "LuxAaria",
+				"index": 89
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			},
+			{
+				"name": "LuxAaria",
+				"index": 89
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "routuro",
+				"index": 21
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "virtuality",
+				"index": 43
+			},
+			{
+				"name": "turtleclaw",
+				"index": 68
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "HideYourMind",
+				"index": 79
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "virtuality",
+				"index": 43
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Sertonix",
+				"index": 94
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "BilluPillu",
+				"index": 2
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Sertonix",
+				"index": 94
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "iaace",
+				"index": 3
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "terroru",
+				"index": 27
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			},
+			{
+				"name": "LessProfanity",
+				"index": 73
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "Careless Love",
+				"index": 14
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "ianace",
+				"index": 83
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "clamyboy19",
+				"index": 65
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Calling",
+				"index": 1
+			},
+			{
+				"name": "TerminuZs",
+				"index": 7
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "WX JINPING 1V9",
+				"index": 56
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Slayer sss",
+				"index": 34
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "HatredSc2",
+				"index": 4
+			},
+			{
+				"name": "Entro",
+				"index": 9
+			},
+			{
+				"name": "Eskaytee1 Faker",
+				"index": 44
+			},
+			{
+				"name": "HotCheesyPotato",
+				"index": 64
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "little goose",
+				"index": 16
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "Chime Warden",
+				"index": 6
+			},
+			{
+				"name": "Turnipgreen",
+				"index": 8
+			},
+			{
+				"name": "Sertonix",
+				"index": 94
+			}
+		],
+		"w": 1,
+		"l": 0,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "kpopgod69",
+				"index": 12
+			},
+			{
+				"name": "jww",
+				"index": 13
+			},
+			{
+				"name": "little duck",
+				"index": 17
+			},
+			{
+				"name": "TFT Genius",
+				"index": 18
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	},
+	{
+		"igns": [
+			{
+				"name": "Shmikal",
+				"index": 0
+			},
+			{
+				"name": "drink from me",
+				"index": 11
+			},
+			{
+				"name": "Blamesme",
+				"index": 81
+			}
+		],
+		"w": 0,
+		"l": 1,
+		"g": 1
+	}
+]

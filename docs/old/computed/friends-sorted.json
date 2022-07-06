@@ -1,0 +1,3922 @@
+[
+	{
+		"id": "WBbADJRaqq0IXIXTNlM6Xird_dNvwCnZOc2rvjVjSNBlxys",
+		"times": 5011,
+		"wins": 2632,
+		"losses": 2379,
+		"name": "Shmikal",
+		"seconds": 7965997,
+		"average_performance": 5.0747355817202155,
+		"performance_sd": 7.0670902622917255,
+		"t_perf_avg": 5.0747355817202155,
+		"t_perf_sd": 7.0670902622917255,
+		"oldest_match": {
+			"mid": 2808061530,
+			"timestamp": 1529345337158
+		},
+		"most_recent_match": {
+			"mid": 4169600798,
+			"timestamp": 1641677478000
+		}
+	},
+	{
+		"id": "NgbYOW3uWe6wqbSQm5g9IjfNAYWVO6Bv7QENuhQRm4Yag9k",
+		"times": 1547,
+		"wins": 777,
+		"losses": 770,
+		"name": "Calling",
+		"seconds": 2455514,
+		"average_performance": 4.209114414996768,
+		"performance_sd": 6.672897117614615,
+		"t_perf_avg": 4.580801551389786,
+		"t_perf_sd": 7.172288368699008,
+		"oldest_match": {
+			"mid": 2808061530,
+			"timestamp": 1529345337158
+		},
+		"most_recent_match": {
+			"mid": 4169600798,
+			"timestamp": 1641677478000
+		}
+	},
+	{
+		"id": "MrgFZY3Pn5QnSNnqFqzQK5dRnETQpyoAlj0uYOfk4fODwVE",
+		"times": 1129,
+		"wins": 591,
+		"losses": 538,
+		"name": "BilluPillu",
+		"seconds": 1874222,
+		"average_performance": 4.9521700620017715,
+		"performance_sd": 7.012995610439681,
+		"t_perf_avg": 3.580602302922941,
+		"t_perf_sd": 6.820563998228505,
+		"oldest_match": {
+			"mid": 2808140833,
+			"timestamp": 1529349640717
+		},
+		"most_recent_match": {
+			"mid": 4169600798,
+			"timestamp": 1641677478000
+		}
+	},
+	{
+		"id": "RjWlcoPMFvbaPj1apRIxYWwfFMe0XpS2ILNIEzK7MJN9F5k",
+		"times": 668,
+		"wins": 374,
+		"losses": 294,
+		"name": "iaace",
+		"seconds": 1118510,
+		"average_performance": 6.403443113772455,
+		"performance_sd": 5.636412737458463,
+		"t_perf_avg": 4.830838323353293,
+		"t_perf_sd": 7.3330887080962,
+		"oldest_match": {
+			"mid": 2808859229,
+			"timestamp": 1529443900783
+		},
+		"most_recent_match": {
+			"mid": 4114368442,
+			"timestamp": 1637694202000
+		}
+	},
+	{
+		"id": "KW1sO5DafXYg9sIpY3iv8-YGWIKM8ncjDs2xcVun_1scQyM",
+		"times": 621,
+		"wins": 330,
+		"losses": 291,
+		"name": "HatredSc2",
+		"seconds": 1033037,
+		"average_performance": 4.5,
+		"performance_sd": 6.178722594778455,
+		"t_perf_avg": 4.384863123993559,
+		"t_perf_sd": 6.929776530559464,
+		"oldest_match": {
+			"mid": 2812914780,
+			"timestamp": 1530056222523
+		},
+		"most_recent_match": {
+			"mid": 4114473080,
+			"timestamp": 1637698079000
+		}
+	},
+	{
+		"id": "ylchHzp_tAGEV4sBphjapyMr3ZSnE2oQ4DtkDAz1jGDe1sw",
+		"times": 587,
+		"wins": 315,
+		"losses": 272,
+		"name": "IProPenguin",
+		"seconds": 906694,
+		"average_performance": 6.401192504258944,
+		"performance_sd": 6.9601215571903055,
+		"t_perf_avg": 5.334752981260648,
+		"t_perf_sd": 7.331726726386723,
+		"oldest_match": {
+			"mid": 2827895620,
+			"timestamp": 1531873115545
+		},
+		"most_recent_match": {
+			"mid": 3832944199,
+			"timestamp": 1616192152457
+		}
+	},
+	{
+		"id": "Nb_2lCnH5P3kOpbHoUlaOPYDUj6LCviE06zn6krmk-4s3qU",
+		"times": 571,
+		"wins": 292,
+		"losses": 279,
+		"name": "Chime Warden",
+		"seconds": 914698,
+		"average_performance": 3.7565674255691768,
+		"performance_sd": 5.3887737224575805,
+		"t_perf_avg": 5.6821366024518385,
+		"t_perf_sd": 7.315455615716458,
+		"oldest_match": {
+			"mid": 2808061530,
+			"timestamp": 1529345337158
+		},
+		"most_recent_match": {
+			"mid": 4122206393,
+			"timestamp": 1638236888000
+		}
+	},
+	{
+		"id": "JvPtX0p0SdAt6Im-PRu9pXLN1yAFfcLCyhFjttLkMxKslIE",
+		"times": 548,
+		"wins": 273,
+		"losses": 275,
+		"name": "TerminuZs",
+		"seconds": 891949,
+		"average_performance": 2.8001824817518246,
+		"performance_sd": 5.815469815976481,
+		"t_perf_avg": 5.4726277372262775,
+		"t_perf_sd": 7.5508137769915304,
+		"oldest_match": {
+			"mid": 2921662362,
+			"timestamp": 1543622606271
+		},
+		"most_recent_match": {
+			"mid": 4114473080,
+			"timestamp": 1637698079000
+		}
+	},
+	{
+		"id": "cEVif3eyDKXnbjyTz7xU0V3rHF2A9XYlGunVkPdKcyyckYk",
+		"times": 442,
+		"wins": 255,
+		"losses": 187,
+		"name": "Turnipgreen",
+		"seconds": 635296,
+		"average_performance": 10.074660633484163,
+		"performance_sd": 7.727140406655042,
+		"t_perf_avg": 4.857466063348416,
+		"t_perf_sd": 7.0692269078598295,
+		"oldest_match": {
+			"mid": 2810722507,
+			"timestamp": 1529716178514
+		},
+		"most_recent_match": {
+			"mid": 4169600798,
+			"timestamp": 1641677478000
+		}
+	},
+	{
+		"id": "ojVv9N-fTFqDSd4vkDDjXjUrZ5hXc7UeJb7Tom3ryMtIXi4",
+		"times": 312,
+		"wins": 163,
+		"losses": 149,
+		"name": "Entro",
+		"seconds": 499097,
+		"average_performance": 4.4118589743589745,
+		"performance_sd": 6.400569237595732,
+		"t_perf_avg": 4.0993589743589745,
+		"t_perf_sd": 6.294212079131874,
+		"oldest_match": {
+			"mid": 2817823444,
+			"timestamp": 1530568882600
+		},
+		"most_recent_match": {
+			"mid": 4110400034,
+			"timestamp": 1637422149000
+		}
+	},
+	{
+		"id": "in1CBlaLKRon4XtFBmGIGIp9Zoq0odrsMt6csk-UwmSn2E4",
+		"times": 147,
+		"wins": 77,
+		"losses": 70,
+		"name": "Graddian",
+		"seconds": 239260,
+		"average_performance": 6.3979591836734695,
+		"performance_sd": 7.133496802302472,
+		"t_perf_avg": 5.0476190476190474,
+		"t_perf_sd": 6.915917052408821,
+		"oldest_match": {
+			"mid": 2872364204,
+			"timestamp": 1537660272720
+		},
+		"most_recent_match": {
+			"mid": 3182086041,
+			"timestamp": 1571775084694
+		}
+	},
+	{
+		"id": "ZWusG4vralqs6A19RuH2LYrIwVOsB_0vPiiy2aFtcYIxFxE",
+		"times": 129,
+		"wins": 66,
+		"losses": 63,
+		"name": "drink from me",
+		"seconds": 213950,
+		"average_performance": 5.511627906976744,
+		"performance_sd": 5.92184288127143,
+		"t_perf_avg": 3.2829457364341086,
+		"t_perf_sd": 6.708158792086317,
+		"oldest_match": {
+			"mid": 2829344654,
+			"timestamp": 1532032651067
+		},
+		"most_recent_match": {
+			"mid": 4141910947,
+			"timestamp": 1639683629000
+		}
+	},
+	{
+		"id": "eh9JkUp12r_IkI2kE0_9IWQGPqcqGXvsL6-LZMsi9f8G_eY",
+		"times": 112,
+		"wins": 56,
+		"losses": 56,
+		"name": "kpopgod69",
+		"seconds": 165359,
+		"average_performance": 4.044642857142857,
+		"performance_sd": 5.715694203826883,
+		"t_perf_avg": 4.861607142857143,
+		"t_perf_sd": 7.165737365297238,
+		"oldest_match": {
+			"mid": 3347138875,
+			"timestamp": 1585405994419
+		},
+		"most_recent_match": {
+			"mid": 4168576814,
+			"timestamp": 1641608250000
+		}
+	},
+	{
+		"id": "GM9yN05R6H_W8pXBvlbGvQaIKAizYHsGlO3fvlq34DdJKkA",
+		"times": 108,
+		"wins": 65,
+		"losses": 43,
+		"name": "jww",
+		"seconds": 152982,
+		"average_performance": 5.791666666666667,
+		"performance_sd": 6.980990543752556,
+		"t_perf_avg": 6.3657407407407405,
+		"t_perf_sd": 7.341663999891076,
+		"oldest_match": {
+			"mid": 3718973301,
+			"timestamp": 1608948833896
+		},
+		"most_recent_match": {
+			"mid": 4165769565,
+			"timestamp": 1641421661000
+		}
+	},
+	{
+		"id": "HVwZgjVFIAYHgetkt0jM-3oTaNoCCkQhZCttXghlvgH-uOWdv_uvjXhgmg",
+		"times": 98,
+		"wins": 50,
+		"losses": 48,
+		"name": "Careless Love",
+		"seconds": 128745,
+		"average_performance": 6.994897959183674,
+		"performance_sd": 7.1354693016247195,
+		"t_perf_avg": 4.846938775510204,
+		"t_perf_sd": 7.1043068697309035,
+		"oldest_match": {
+			"mid": 3715617513,
+			"timestamp": 1608690259789
+		},
+		"most_recent_match": {
+			"mid": 4037669278,
+			"timestamp": 1631227048000
+		}
+	},
+	{
+		"id": "QnH2L_t6WNwifTWtZbV-1JeX68S4qxK439aN6I8mHiwrSNs",
+		"times": 93,
+		"wins": 51,
+		"losses": 42,
+		"name": "TheTrueBobRoss",
+		"seconds": 156842,
+		"average_performance": 3.8870967741935485,
+		"performance_sd": 5.96872693815625,
+		"t_perf_avg": 8.983870967741936,
+		"t_perf_sd": 8.777271665854554,
+		"oldest_match": {
+			"mid": 2897139845,
+			"timestamp": 1540820612682
+		},
+		"most_recent_match": {
+			"mid": 4099664949,
+			"timestamp": 1636637379000
+		}
+	},
+	{
+		"id": "mq_ggvhVilTXObrXbDym5FsSW8XqFwzpNQoKrgH2GZ5S3bM",
+		"times": 93,
+		"wins": 39,
+		"losses": 54,
+		"name": "little goose",
+		"seconds": 119765,
+		"average_performance": 6.838709677419355,
+		"performance_sd": 6.785999530011653,
+		"t_perf_avg": 6.827956989247312,
+		"t_perf_sd": 7.981804928158383,
+		"oldest_match": {
+			"mid": 3718715501,
+			"timestamp": 1608928943691
+		},
+		"most_recent_match": {
+			"mid": 4163338499,
+			"timestamp": 1641256967000
+		}
+	},
+	{
+		"id": "_A3zP2cKT-lKDpaSWeR_M6ZVNa3HwvzksXnp-425w9ogtB_iRhzC_zwFwA",
+		"times": 92,
+		"wins": 52,
+		"losses": 40,
+		"name": "little duck",
+		"seconds": 138770,
+		"average_performance": 9.201086956521738,
+		"performance_sd": 7.088940381229003,
+		"t_perf_avg": 5.641304347826087,
+		"t_perf_sd": 6.661900071728425,
+		"oldest_match": {
+			"mid": 3851434119,
+			"timestamp": 1617414519147
+		},
+		"most_recent_match": {
+			"mid": 4166868029,
+			"timestamp": 1641508186000
+		}
+	},
+	{
+		"id": "sr75gEoI6H6PspNKFSRR2bsMdrHFSbXA2zhoNykKhaT9NXw",
+		"times": 70,
+		"wins": 46,
+		"losses": 24,
+		"name": "TFT Genius",
+		"seconds": 98789,
+		"average_performance": 5.078571428571428,
+		"performance_sd": 7.083168308880247,
+		"t_perf_avg": 5.5285714285714285,
+		"t_perf_sd": 7.729993210285239,
+		"oldest_match": {
+			"mid": 3718715501,
+			"timestamp": 1608928943691
+		},
+		"most_recent_match": {
+			"mid": 4139587327,
+			"timestamp": 1639521349000
+		}
+	},
+	{
+		"id": "C0HPTK6_N6xPtz4ELkg1fnafqtLZFJcU93ZKfsJK0ho8HNQ",
+		"times": 60,
+		"wins": 32,
+		"losses": 28,
+		"name": "macmilliantac50",
+		"seconds": 106800,
+		"average_performance": 3.0083333333333333,
+		"performance_sd": 5.430993655897185,
+		"t_perf_avg": 7.15,
+		"t_perf_sd": 7.673032238223269,
+		"oldest_match": {
+			"mid": 2967069700,
+			"timestamp": 1549055625105
+		},
+		"most_recent_match": {
+			"mid": 3126496457,
+			"timestamp": 1566077596240
+		}
+	},
+	{
+		"id": "I5M6PLt-kLvqWKCOUmZqKM_afIdEjU__uTgSwSakrfhERYmf",
+		"times": 57,
+		"wins": 30,
+		"losses": 27,
+		"name": "Im Happy for you",
+		"seconds": 78389,
+		"average_performance": 8.508771929824562,
+		"performance_sd": 8.302049675956845,
+		"t_perf_avg": 5.0701754385964914,
+		"t_perf_sd": 7.128563392444529,
+		"oldest_match": {
+			"mid": 3301294955,
+			"timestamp": 1582114024099
+		},
+		"most_recent_match": {
+			"mid": 3383806643,
+			"timestamp": 1587339330363
+		}
+	},
+	{
+		"id": "RdzKiOR6WYwDlO91pdI_i7Rnz5UMOVLVzP7Wav9_KcagInA",
+		"times": 52,
+		"wins": 30,
+		"losses": 22,
+		"name": "routuro",
+		"seconds": 87674,
+		"average_performance": 2.4134615384615383,
+		"performance_sd": 5.521545281224211,
+		"t_perf_avg": 5.5576923076923075,
+		"t_perf_sd": 6.340543248632786,
+		"oldest_match": {
+			"mid": 2810619602,
+			"timestamp": 1529706952463
+		},
+		"most_recent_match": {
+			"mid": 3879822260,
+			"timestamp": 1619301410363
+		}
+	},
+	{
+		"id": "bjYAw4cwqJ-z8EfR8Kv2tHc4hvff9iTgKtkR7uLPWj0WV60",
+		"times": 49,
+		"wins": 25,
+		"losses": 24,
+		"name": "jemxas",
+		"seconds": 77128,
+		"average_performance": 1.6938775510204083,
+		"performance_sd": 5.220967669059113,
+		"t_perf_avg": 4.081632653061225,
+		"t_perf_sd": 6.719333841900665,
+		"oldest_match": {
+			"mid": 2829829501,
+			"timestamp": 1532122119317
+		},
+		"most_recent_match": {
+			"mid": 3763101050,
+			"timestamp": 1611810174522
+		}
+	},
+	{
+		"id": "4sKldogWdKKStjtNu1_tMy7AL7-07da5F5p7zfLaQvAqDi4",
+		"times": 44,
+		"wins": 16,
+		"losses": 28,
+		"name": "AZephyr",
+		"seconds": 58177,
+		"average_performance": 4.511363636363637,
+		"performance_sd": 7.574811868385753,
+		"t_perf_avg": 5.420454545454546,
+		"t_perf_sd": 6.536074476015812,
+		"oldest_match": {
+			"mid": 3718973301,
+			"timestamp": 1608948833896
+		},
+		"most_recent_match": {
+			"mid": 3814542942,
+			"timestamp": 1615066168506
+		}
+	},
+	{
+		"id": "96wdlDDNwGRq89PrDkp5M9hcT_88RZKVn2PxnoBVt4N4lTU",
+		"times": 43,
+		"wins": 19,
+		"losses": 24,
+		"name": "Shudas1000",
+		"seconds": 70559,
+		"average_performance": 0.9069767441860465,
+		"performance_sd": 5.785095601499935,
+		"t_perf_avg": 5.406976744186046,
+		"t_perf_sd": 8.424917559264227,
+		"oldest_match": {
+			"mid": 3148886280,
+			"timestamp": 1568408337670
+		},
+		"most_recent_match": {
+			"mid": 3532158330,
+			"timestamp": 1597270104605
+		}
+	},
+	{
+		"id": "75ltlpD8THeTJuUyPSS4a6Os18ekkX9o71jBA-rh6JajnGg",
+		"times": 34,
+		"wins": 20,
+		"losses": 14,
+		"name": "im outjungled",
+		"seconds": 53352,
+		"average_performance": 9.676470588235293,
+		"performance_sd": 9.057796200746639,
+		"t_perf_avg": 3.3676470588235294,
+		"t_perf_sd": 4.937961828849319,
+		"oldest_match": {
+			"mid": 3780286239,
+			"timestamp": 1612844329828
+		},
+		"most_recent_match": {
+			"mid": 3999482390,
+			"timestamp": 1628038036746
+		}
+	},
+	{
+		"id": "Ha4UxF7m7Vbt0p56Ism8JLlE6n5V5StIthbpYTVSZk1QnVA",
+		"times": 31,
+		"wins": 16,
+		"losses": 15,
+		"name": "Houseparty456",
+		"seconds": 49053,
+		"average_performance": 5.080645161290323,
+		"performance_sd": 6.7824488868863435,
+		"t_perf_avg": 2.7419354838709675,
+		"t_perf_sd": 6.402956306454511,
+		"oldest_match": {
+			"mid": 2837665035,
+			"timestamp": 1533159271121
+		},
+		"most_recent_match": {
+			"mid": 3134696184,
+			"timestamp": 1566862248440
+		}
+	},
+	{
+		"id": "KgvFA2AxR_uxRwvnmALfJJA1K9kWrIGTLZSCtKZeNcojPIwQ",
+		"times": 31,
+		"wins": 14,
+		"losses": 17,
+		"name": "terroru",
+		"seconds": 44924,
+		"average_performance": 4.17741935483871,
+		"performance_sd": 7.384159156709239,
+		"t_perf_avg": 5.193548387096774,
+		"t_perf_sd": 6.777016820788282,
+		"oldest_match": {
+			"mid": 3811633664,
+			"timestamp": 1614891498256
+		},
+		"most_recent_match": {
+			"mid": 4011048336,
+			"timestamp": 1628978750711
+		}
+	},
+	{
+		"id": "Qs5NUACGrQ4QcHiMU1QTnFrpLy9SkROFMSefmD1V5XZIAG5x",
+		"times": 29,
+		"wins": 17,
+		"losses": 12,
+		"name": "King Slayer Peth",
+		"seconds": 47251,
+		"average_performance": 6.5344827586206895,
+		"performance_sd": 6.820309788841233,
+		"t_perf_avg": 4.206896551724138,
+		"t_perf_sd": 6.896579433441871,
+		"oldest_match": {
+			"mid": 3276989466,
+			"timestamp": 1580036885208
+		},
+		"most_recent_match": {
+			"mid": 3631253240,
+			"timestamp": 1603566991367
+		}
+	},
+	{
+		"id": "E6ScsLw1PrLcgZ90E8SwX6b68A_9kczaTI44yesFhkJVKvI",
+		"times": 28,
+		"wins": 14,
+		"losses": 14,
+		"name": "RadicalDad",
+		"seconds": 42746,
+		"average_performance": 6.410714285714286,
+		"performance_sd": 5.765564395983518,
+		"t_perf_avg": 8.660714285714286,
+		"t_perf_sd": 8.385452097430816,
+		"oldest_match": {
+			"mid": 2999373767,
+			"timestamp": 1552692449714
+		},
+		"most_recent_match": {
+			"mid": 3909287301,
+			"timestamp": 1621207904000
+		}
+	},
+	{
+		"id": "Kb1_Oct5ql2exy7qoriREzcaKNuxPQ15uRS4x_xjxv1b",
+		"times": 27,
+		"wins": 15,
+		"losses": 12,
+		"name": "Xihark",
+		"seconds": 48603,
+		"average_performance": 7.648148148148148,
+		"performance_sd": 5.29661505625348,
+		"t_perf_avg": 5.87037037037037,
+		"t_perf_sd": 6.980181550141404,
+		"oldest_match": {
+			"mid": 2905631472,
+			"timestamp": 1541811274900
+		},
+		"most_recent_match": {
+			"mid": 3229521693,
+			"timestamp": 1575861332757
+		}
+	},
+	{
+		"id": "rqlmJ9ehZWZNHt9EWvc5ekLmClNo4tVFzrDWOW16e1yX9zw",
+		"times": 26,
+		"wins": 13,
+		"losses": 13,
+		"name": "AtlasJay26",
+		"seconds": 43778,
+		"average_performance": 7.826923076923077,
+		"performance_sd": 8.165711613438608,
+		"t_perf_avg": 3.576923076923077,
+		"t_perf_sd": 6.617691905328183,
+		"oldest_match": {
+			"mid": 3720316718,
+			"timestamp": 1609037727093
+		},
+		"most_recent_match": {
+			"mid": 3808306866,
+			"timestamp": 1614646561988
+		}
+	},
+	{
+		"id": "gAraaxUZcJEBHBlK6kETqByuitcEXq5iF210WO-spZAbr98",
+		"times": 25,
+		"wins": 14,
+		"losses": 11,
+		"name": "BuBBaSc2",
+		"seconds": 36226,
+		"average_performance": 1.52,
+		"performance_sd": 5.61708702680194,
+		"t_perf_avg": 6.6,
+		"t_perf_sd": 7.161820066621798,
+		"oldest_match": {
+			"mid": 3225508809,
+			"timestamp": 1575493424315
+		},
+		"most_recent_match": {
+			"mid": 4101207837,
+			"timestamp": 1636766522000
+		}
+	},
+	{
+		"id": "Ulv2DkTPHduLklWwO_7y_fo7bXDjZUYWDj5I6MVeFvgoz74",
+		"times": 23,
+		"wins": 12,
+		"losses": 11,
+		"name": "ßluę",
+		"seconds": 36605,
+		"average_performance": 6.956521739130435,
+		"performance_sd": 8.200489236345293,
+		"t_perf_avg": 2.8260869565217392,
+		"t_perf_sd": 6.180263115265648,
+		"oldest_match": {
+			"mid": 2851397118,
+			"timestamp": 1534979421504
+		},
+		"most_recent_match": {
+			"mid": 3119304735,
+			"timestamp": 1565404018619
+		}
+	},
+	{
+		"id": "EsIb3eNMSKL98mM4HvU1NlqMulZ4gc4CbBeVdbl798EUE7o",
+		"times": 22,
+		"wins": 12,
+		"losses": 10,
+		"name": "Slayer sss",
+		"seconds": 34883,
+		"average_performance": 3.25,
+		"performance_sd": 7.528912525028021,
+		"t_perf_avg": 2.340909090909091,
+		"t_perf_sd": 6.118641235010479,
+		"oldest_match": {
+			"mid": 3169048755,
+			"timestamp": 1570568112916
+		},
+		"most_recent_match": {
+			"mid": 4094979475,
+			"timestamp": 1636320105000
+		}
+	},
+	{
+		"id": "bwLf1u5JACYHPxdcS7ygpxNChGiwYRMshyFHzLyW918G-yC1",
+		"times": 21,
+		"wins": 14,
+		"losses": 7,
+		"name": "HolyJunow",
+		"seconds": 33597,
+		"average_performance": 3.2857142857142856,
+		"performance_sd": 4.409000534620711,
+		"t_perf_avg": 8.285714285714286,
+		"t_perf_sd": 7.96801642281727,
+		"oldest_match": {
+			"mid": 3423185712,
+			"timestamp": 1589658608607
+		},
+		"most_recent_match": {
+			"mid": 3641689031,
+			"timestamp": 1604181742909
+		}
+	},
+	{
+		"id": "l7mOHgsk3aigzBIW_Q1raYv_ii2Y4EIg5t6IH9VwN4GLyoE",
+		"times": 21,
+		"wins": 9,
+		"losses": 12,
+		"name": "Smiling Gopher32",
+		"seconds": 32625,
+		"average_performance": 7.142857142857143,
+		"performance_sd": 7.968912813462789,
+		"t_perf_avg": 4.523809523809524,
+		"t_perf_sd": 7.688426676629282,
+		"oldest_match": {
+			"mid": 3518786314,
+			"timestamp": 1596395316862
+		},
+		"most_recent_match": {
+			"mid": 3578999328,
+			"timestamp": 1600366144502
+		}
+	},
+	{
+		"id": "TzB6vhi_4ky3AJ3OxezgpeKLtLWolXBoiIsF1F1troNyksQ",
+		"times": 21,
+		"wins": 12,
+		"losses": 9,
+		"name": "The Dwegon",
+		"seconds": 33736,
+		"average_performance": 8,
+		"performance_sd": 7.728195132112025,
+		"t_perf_avg": 5,
+		"t_perf_sd": 7.605918747922567,
+		"oldest_match": {
+			"mid": 3718715501,
+			"timestamp": 1608928943691
+		},
+		"most_recent_match": {
+			"mid": 3798129291,
+			"timestamp": 1613964198094
+		}
+	},
+	{
+		"id": "7_xg0-oWv8q2DMbNU42Sxa9GojfaJ5p5joxhIt4MPKxrZFw",
+		"times": 20,
+		"wins": 10,
+		"losses": 10,
+		"name": "WhyCanINotGetANa",
+		"seconds": 30375,
+		"average_performance": 4.35,
+		"performance_sd": 5.431632496676057,
+		"t_perf_avg": 2.5,
+		"t_perf_sd": 6.16868151057804,
+		"oldest_match": {
+			"mid": 2881775499,
+			"timestamp": 1538867981547
+		},
+		"most_recent_match": {
+			"mid": 2979443865,
+			"timestamp": 1550372309810
+		}
+	},
+	{
+		"id": "wg4ACDwPkNkr2V1MiGFIaOlaLt9D8QX6FixdDegb0t_lGmA",
+		"times": 20,
+		"wins": 7,
+		"losses": 13,
+		"name": "pseudo l9 xd",
+		"seconds": 31613,
+		"average_performance": -1.2,
+		"performance_sd": 5.050794622214358,
+		"t_perf_avg": 3.375,
+		"t_perf_sd": 7.267220926874317,
+		"oldest_match": {
+			"mid": 3312996591,
+			"timestamp": 1583192374939
+		},
+		"most_recent_match": {
+			"mid": 3550995090,
+			"timestamp": 1598479835221
+		}
+	},
+	{
+		"id": "0Os8bsiuGmTZzwRIO-XvJcLwJvoDH2t3iRVk1Q6his3p-yg",
+		"times": 19,
+		"wins": 10,
+		"losses": 9,
+		"name": "Emperor UwUumi",
+		"seconds": 25611,
+		"average_performance": 3.1052631578947367,
+		"performance_sd": 6.531077304720402,
+		"t_perf_avg": 2.8421052631578947,
+		"t_perf_sd": 5.802424377359068,
+		"oldest_match": {
+			"mid": 2831862698,
+			"timestamp": 1532374768918
+		},
+		"most_recent_match": {
+			"mid": 3407735528,
+			"timestamp": 1588732942950
+		}
+	},
+	{
+		"id": "ZEIukJjNqNwPWLCcZaiGdl-ZZ_ZNK5G8gV0v8vSRzfAlYro",
+		"times": 19,
+		"wins": 11,
+		"losses": 8,
+		"name": "oD Korean",
+		"seconds": 29667,
+		"average_performance": 6.7631578947368425,
+		"performance_sd": 5.4654684180992,
+		"t_perf_avg": 0.868421052631579,
+		"t_perf_sd": 5.240976651093757,
+		"oldest_match": {
+			"mid": 2900150441,
+			"timestamp": 1541209548820
+		},
+		"most_recent_match": {
+			"mid": 3135507736,
+			"timestamp": 1566957161741
+		}
+	},
+	{
+		"id": "VyiFMrTh5kEUpfvBJI7HfJ5ObcLFcLyIX7yXsNOFOs13Gr8h",
+		"times": 19,
+		"wins": 8,
+		"losses": 11,
+		"name": "schemaposse",
+		"seconds": 31094,
+		"average_performance": 1.9736842105263157,
+		"performance_sd": 4.614210189459797,
+		"t_perf_avg": 6.447368421052632,
+		"t_perf_sd": 7.355826747178249,
+		"oldest_match": {
+			"mid": 3483086524,
+			"timestamp": 1593886855624
+		},
+		"most_recent_match": {
+			"mid": 3643190540,
+			"timestamp": 1604260213489
+		}
+	},
+	{
+		"id": "8k0-PR-ESCL3Za5fjhD7Mvv0Ocipk5xcEU2-hwzO8E9JJ_nt",
+		"times": 19,
+		"wins": 13,
+		"losses": 6,
+		"name": "virtuality",
+		"seconds": 24519,
+		"average_performance": 8.5,
+		"performance_sd": 5.228129047119374,
+		"t_perf_avg": 7.421052631578948,
+		"t_perf_sd": 6.821663119745671,
+		"oldest_match": {
+			"mid": 3563930092,
+			"timestamp": 1599355798581
+		},
+		"most_recent_match": {
+			"mid": 4123116108,
+			"timestamp": 1638318756000
+		}
+	},
+	{
+		"id": "d1Y2fPxAzEG2qwxSD6xU9dOQT49Sx23u7OUPNW9ZydMVaPky",
+		"times": 19,
+		"wins": 13,
+		"losses": 6,
+		"name": "Eskaytee1 Faker",
+		"seconds": 29083,
+		"average_performance": 7.552631578947368,
+		"performance_sd": 4.521229972898554,
+		"t_perf_avg": 5.2894736842105265,
+		"t_perf_sd": 5.6280936911614425,
+		"oldest_match": {
+			"mid": 3631811658,
+			"timestamp": 1603596796378
+		},
+		"most_recent_match": {
+			"mid": 4095064354,
+			"timestamp": 1636322532000
+		}
+	},
+	{
+		"id": "VvceL2mDyLPFE_NV2hXuT6HnCkJ3WQxg3AOV5qRN-Rzj34U",
+		"times": 18,
+		"wins": 9,
+		"losses": 9,
+		"name": "Grabby Boi",
+		"seconds": 34378,
+		"average_performance": 3.111111111111111,
+		"performance_sd": 6.337459955913761,
+		"t_perf_avg": 6.361111111111111,
+		"t_perf_sd": 8.62759859499385,
+		"oldest_match": {
+			"mid": 2817815593,
+			"timestamp": 1530566632905
+		},
+		"most_recent_match": {
+			"mid": 3705460292,
+			"timestamp": 1607991457965
+		}
+	},
+	{
+		"id": "jWNodr04mRE9Gb3JH-v1HuuFAMne5pYJTaNg2O-bD2ObuiI",
+		"times": 18,
+		"wins": 9,
+		"losses": 9,
+		"name": "Log",
+		"seconds": 25984,
+		"average_performance": 4.472222222222222,
+		"performance_sd": 5.768760245602328,
+		"t_perf_avg": 5.305555555555555,
+		"t_perf_sd": 6.207535479723506,
+		"oldest_match": {
+			"mid": 2827888513,
+			"timestamp": 1531871197678
+		},
+		"most_recent_match": {
+			"mid": 3100880066,
+			"timestamp": 1563675297367
+		}
+	},
+	{
+		"id": "V7Y8gJLrZ_VzZY1n07My_DXyg6z0sbszk5YKMNPffJyNZpB_",
+		"times": 18,
+		"wins": 12,
+		"losses": 6,
+		"name": "While Kong",
+		"seconds": 26610,
+		"average_performance": 2.25,
+		"performance_sd": 3.7268895720631354,
+		"t_perf_avg": 8.166666666666666,
+		"t_perf_sd": 8.977095036486896,
+		"oldest_match": {
+			"mid": 3386769601,
+			"timestamp": 1587516884087
+		},
+		"most_recent_match": {
+			"mid": 3509635974,
+			"timestamp": 1595793186811
+		}
+	},
+	{
+		"id": "UkAPJIuMIjEL5-63xbbtoU2EJEhD8odrhLtzVrr-QxxTkQY",
+		"times": 17,
+		"wins": 11,
+		"losses": 6,
+		"name": "Fall3n Armour",
+		"seconds": 28780,
+		"average_performance": 2.264705882352941,
+		"performance_sd": 4.500408478192646,
+		"t_perf_avg": 8.735294117647058,
+		"t_perf_sd": 8.651440716469613,
+		"oldest_match": {
+			"mid": 2946669983,
+			"timestamp": 1546706206769
+		},
+		"most_recent_match": {
+			"mid": 3712481506,
+			"timestamp": 1608481212999
+		}
+	},
+	{
+		"id": "QkfDl3UPX5_-rAUfYPz21LsP5HL-fqc_vfiuHAvYmgG9fgA",
+		"times": 17,
+		"wins": 11,
+		"losses": 6,
+		"name": "Freijords Might",
+		"seconds": 31606,
+		"average_performance": 5.735294117647059,
+		"performance_sd": 5.139058909040471,
+		"t_perf_avg": 4.911764705882353,
+		"t_perf_sd": 5.769627625867762,
+		"oldest_match": {
+			"mid": 3066739643,
+			"timestamp": 1560555053731
+		},
+		"most_recent_match": {
+			"mid": 3649175310,
+			"timestamp": 1604607817078
+		}
+	},
+	{
+		"id": "S2672r3drJH3hpUIopTPYgJ5dH7cqen5W3eQKFqlGWJ0C7o8glvqWPt7jQ",
+		"times": 16,
+		"wins": 6,
+		"losses": 10,
+		"name": "nurse cait",
+		"seconds": 15785,
+		"average_performance": 8.4375,
+		"performance_sd": 5.412562547752528,
+		"t_perf_avg": 8.625,
+		"t_perf_sd": 8.034301463101817,
+		"oldest_match": {
+			"mid": 3747948036,
+			"timestamp": 1610913662897
+		},
+		"most_recent_match": {
+			"mid": 3762650237,
+			"timestamp": 1611789541104
+		}
+	},
+	{
+		"id": "CdUTJaFirRpAJOhk-og7Xb7xpqUA7awtSXsdUJSuNhsXBNlI",
+		"times": 16,
+		"wins": 12,
+		"losses": 4,
+		"name": "Oh Look Supper",
+		"seconds": 24016,
+		"average_performance": 13.15625,
+		"performance_sd": 7.5425874207727945,
+		"t_perf_avg": 3.46875,
+		"t_perf_sd": 6.0428159826359105,
+		"oldest_match": {
+			"mid": 3764563542,
+			"timestamp": 1611898041786
+		},
+		"most_recent_match": {
+			"mid": 3772520817,
+			"timestamp": 1612390490409
+		}
+	},
+	{
+		"id": "_LoIPZ30hRFC04iSYn4yorLamo-Su2VgWMO-IGPYh7rYmx0",
+		"times": 15,
+		"wins": 7,
+		"losses": 8,
+		"name": "FindTheSolucian",
+		"seconds": 18603,
+		"average_performance": 5.1,
+		"performance_sd": 6.3701311939842675,
+		"t_perf_avg": 5.933333333333334,
+		"t_perf_sd": 7.080825886723613,
+		"oldest_match": {
+			"mid": 3325474651,
+			"timestamp": 1584276884319
+		},
+		"most_recent_match": {
+			"mid": 3360642948,
+			"timestamp": 1586048823960
+		}
+	},
+	{
+		"id": "D-Sc65z-YKPyN5AN8jrOUxWjEAJ_5eNTKgcTZ1J9kBhPOgE",
+		"times": 15,
+		"wins": 8,
+		"losses": 7,
+		"name": "Trïnïty",
+		"seconds": 27411,
+		"average_performance": 8.133333333333333,
+		"performance_sd": 6.3960553319623346,
+		"t_perf_avg": 6.966666666666667,
+		"t_perf_sd": 8.138240127997722,
+		"oldest_match": {
+			"mid": 3618243066,
+			"timestamp": 1602766163150
+		},
+		"most_recent_match": {
+			"mid": 3663591822,
+			"timestamp": 1605384629458
+		}
+	},
+	{
+		"id": "X9gS_FPLoDX6SgEsbNFQzpatw4ZjKiMDqkf3WBzvz3_cFIk",
+		"times": 14,
+		"wins": 7,
+		"losses": 7,
+		"name": "TofuNovaChan",
+		"seconds": 27542,
+		"average_performance": 3.1785714285714284,
+		"performance_sd": 4.483332992905471,
+		"t_perf_avg": 2.392857142857143,
+		"t_perf_sd": 6.813952234565858,
+		"oldest_match": {
+			"mid": 2826825540,
+			"timestamp": 1531694392981
+		},
+		"most_recent_match": {
+			"mid": 3695664535,
+			"timestamp": 1607316796082
+		}
+	},
+	{
+		"id": "KffmD3tcO5pj17C2PFobLm8XtG5qzxpWxpo9il5XVXD-S24",
+		"times": 14,
+		"wins": 6,
+		"losses": 8,
+		"name": "PixeICake",
+		"seconds": 22798,
+		"average_performance": 5.142857142857143,
+		"performance_sd": 6.984677106761221,
+		"t_perf_avg": 7.571428571428571,
+		"t_perf_sd": 8.343254167882582,
+		"oldest_match": {
+			"mid": 3236047529,
+			"timestamp": 1576446125701
+		},
+		"most_recent_match": {
+			"mid": 4099664949,
+			"timestamp": 1636637379000
+		}
+	},
+	{
+		"id": "L8h0HynOlB-cYiYy7p9a3Fg91zHVqtwA_bPRltg0KhA89UWEmFoTNHsmgg",
+		"times": 14,
+		"wins": 9,
+		"losses": 5,
+		"name": "WX JINPING 1V9",
+		"seconds": 15144,
+		"average_performance": 12.607142857142858,
+		"performance_sd": 5.193111455900652,
+		"t_perf_avg": 11.392857142857142,
+		"t_perf_sd": 6.051632238268676,
+		"oldest_match": {
+			"mid": 4079531307,
+			"timestamp": 1634993381000
+		},
+		"most_recent_match": {
+			"mid": 4084108905,
+			"timestamp": 1635427250000
+		}
+	},
+	{
+		"id": "SB3XC6cFQiEp9OyITuK2f8WQY24hBqokxXZjAlgeFyQVf1mknNUchaV_Bw",
+		"times": 14,
+		"wins": 10,
+		"losses": 4,
+		"name": "Loveblind",
+		"seconds": 21715,
+		"average_performance": 7.428571428571429,
+		"performance_sd": 8.87489359168527,
+		"t_perf_avg": 5.821428571428571,
+		"t_perf_sd": 6.131906288037573,
+		"oldest_match": {
+			"mid": 4107173645,
+			"timestamp": 1637188590000
+		},
+		"most_recent_match": {
+			"mid": 4111303397,
+			"timestamp": 1637467818000
+		}
+	},
+	{
+		"id": "i--1ms964g3cG4Rd8B1WNk4GM8JWzPYTWcn5OVWQ_sLZ7Z8",
+		"times": 13,
+		"wins": 7,
+		"losses": 6,
+		"name": "Cardnal88",
+		"seconds": 19288,
+		"average_performance": 3.923076923076923,
+		"performance_sd": 5.5709295822381755,
+		"t_perf_avg": 8.961538461538462,
+		"t_perf_sd": 8.342815118565442,
+		"oldest_match": {
+			"mid": 2912410686,
+			"timestamp": 1542542404675
+		},
+		"most_recent_match": {
+			"mid": 4070123254,
+			"timestamp": 1634137291000
+		}
+	},
+	{
+		"id": "ZSvzD0opRxiIWp0da0PxubfELzFEvAsjLArsRlbDFW7CGI0",
+		"times": 13,
+		"wins": 10,
+		"losses": 3,
+		"name": "Henlo I am Goat",
+		"seconds": 20172,
+		"average_performance": 5.5,
+		"performance_sd": 5.608772890154613,
+		"t_perf_avg": 6,
+		"t_perf_sd": 6.020797289396148,
+		"oldest_match": {
+			"mid": 2968977274,
+			"timestamp": 1549202856343
+		},
+		"most_recent_match": {
+			"mid": 2972558213,
+			"timestamp": 1549587417484
+		}
+	},
+	{
+		"id": "H9QOInxnwhK6MQ1Z1lLWMltXShYGC_jdCAknSbt2y49hUGxh",
+		"times": 13,
+		"wins": 7,
+		"losses": 6,
+		"name": "yyuuee",
+		"seconds": 20811,
+		"average_performance": 2.8461538461538463,
+		"performance_sd": 6.209484061312365,
+		"t_perf_avg": 6.769230769230769,
+		"t_perf_sd": 8.474509289174666,
+		"oldest_match": {
+			"mid": 3423185712,
+			"timestamp": 1589658608607
+		},
+		"most_recent_match": {
+			"mid": 3504133893,
+			"timestamp": 1595457608828
+		}
+	},
+	{
+		"id": "cvUn74oN61vhWFLCXGWw9sr36WznMvFVpvebKVaD-jw6R-w",
+		"times": 13,
+		"wins": 8,
+		"losses": 5,
+		"name": "kschris",
+		"seconds": 23215,
+		"average_performance": -1.1153846153846154,
+		"performance_sd": 5.046260356912194,
+		"t_perf_avg": 10.846153846153847,
+		"t_perf_sd": 8.073579894179057,
+		"oldest_match": {
+			"mid": 3464322644,
+			"timestamp": 1592357093819
+		},
+		"most_recent_match": {
+			"mid": 3509720767,
+			"timestamp": 1595795547022
+		}
+	},
+	{
+		"id": "3DCeroOlh8s2wmLUjQ5DtlI1pKfrTo2KbioMNh-FmI1mzaI",
+		"times": 13,
+		"wins": 10,
+		"losses": 3,
+		"name": "JoeyLamemo",
+		"seconds": 19964,
+		"average_performance": 3.3846153846153846,
+		"performance_sd": 3.958923707660571,
+		"t_perf_avg": 4.153846153846154,
+		"t_perf_sd": 5.2890792180075135,
+		"oldest_match": {
+			"mid": 3804313136,
+			"timestamp": 1614388265030
+		},
+		"most_recent_match": {
+			"mid": 3818228909,
+			"timestamp": 1615331136088
+		}
+	},
+	{
+		"id": "NwtskeGAQdR9gBcK4hJSmMvlhkawI5VnfsuWUOqLw4FVDgP1BIF4d9ZbIw",
+		"times": 13,
+		"wins": 7,
+		"losses": 6,
+		"name": "im missing us",
+		"seconds": 25498,
+		"average_performance": 5.038461538461538,
+		"performance_sd": 5.5694910691400485,
+		"t_perf_avg": 2.6153846153846154,
+		"t_perf_sd": 4.514577528009709,
+		"oldest_match": {
+			"mid": 4073221945,
+			"timestamp": 1634434160000
+		},
+		"most_recent_match": {
+			"mid": 4166868029,
+			"timestamp": 1641508186000
+		}
+	},
+	{
+		"id": "IN_NUTuLyMNcGFuqggGQtm6PM2RX0pBCWZUphQZ0flu6rhYv",
+		"times": 12,
+		"wins": 5,
+		"losses": 7,
+		"name": "HotCheesyPotato",
+		"seconds": 16117,
+		"average_performance": 0.8333333333333334,
+		"performance_sd": 8.855746294030924,
+		"t_perf_avg": 0.041666666666666664,
+		"t_perf_sd": 8.247474360877598,
+		"oldest_match": {
+			"mid": 3423185712,
+			"timestamp": 1589658608607
+		},
+		"most_recent_match": {
+			"mid": 4095113892,
+			"timestamp": 1636326297000
+		}
+	},
+	{
+		"id": "72NusFxiJBToQfGWaEUub8qf6IcsralUPC-PusIzvpvvQ4Y",
+		"times": 12,
+		"wins": 8,
+		"losses": 4,
+		"name": "clamyboy19",
+		"seconds": 13044,
+		"average_performance": 9.125,
+		"performance_sd": 7.495832175282475,
+		"t_perf_avg": 6.458333333333333,
+		"t_perf_sd": 6.162416635369503,
+		"oldest_match": {
+			"mid": 3431766830,
+			"timestamp": 1590176077979
+		},
+		"most_recent_match": {
+			"mid": 4045553623,
+			"timestamp": 1631941341000
+		}
+	},
+	{
+		"id": "Zih8Pisvbhu4rRSPK96pdcxz2fy7dzh1OAKwlS--Yq_0tSs",
+		"times": 12,
+		"wins": 11,
+		"losses": 1,
+		"name": "Aroe",
+		"seconds": 19471,
+		"average_performance": 3.7916666666666665,
+		"performance_sd": 4.692636075100363,
+		"t_perf_avg": 6.25,
+		"t_perf_sd": 5.577959874688627,
+		"oldest_match": {
+			"mid": 3764563542,
+			"timestamp": 1611898041786
+		},
+		"most_recent_match": {
+			"mid": 3804366832,
+			"timestamp": 1614393197160
+		}
+	},
+	{
+		"id": "mbJV5diudRE83j1artYsMlkDLdr5lDkaCyXf7v3C92P9798",
+		"times": 12,
+		"wins": 7,
+		"losses": 5,
+		"name": "Oh Look Dad",
+		"seconds": 17730,
+		"average_performance": 2.25,
+		"performance_sd": 4.469594246379947,
+		"t_perf_avg": 2.75,
+		"t_perf_sd": 5.033975475795357,
+		"oldest_match": {
+			"mid": 3772520817,
+			"timestamp": 1612390490409
+		},
+		"most_recent_match": {
+			"mid": 3808306866,
+			"timestamp": 1614646561988
+		}
+	},
+	{
+		"id": "ifmW5ZTJGYrSzogJy0THh29JXuAQ9r3Oscdj6155ST7Us78",
+		"times": 12,
+		"wins": 8,
+		"losses": 4,
+		"name": "turtleclaw",
+		"seconds": 20138,
+		"average_performance": 5.416666666666667,
+		"performance_sd": 6.629251066068451,
+		"t_perf_avg": 3.6666666666666665,
+		"t_perf_sd": 6.3401080193455455,
+		"oldest_match": {
+			"mid": 3962836266,
+			"timestamp": 1625132504993
+		},
+		"most_recent_match": {
+			"mid": 4162005736,
+			"timestamp": 1641168286000
+		}
+	},
+	{
+		"id": "T6ypqKl20Tcl-zMvDsyQVZM7YhHe_9v8PjduF1Ben8EjNWg",
+		"times": 11,
+		"wins": 5,
+		"losses": 6,
+		"name": "D23AfterImage",
+		"seconds": 14495,
+		"average_performance": 5.363636363636363,
+		"performance_sd": 8.24648685529453,
+		"t_perf_avg": 6.7272727272727275,
+		"t_perf_sd": 4.3322259657342235,
+		"oldest_match": {
+			"mid": 2937306055,
+			"timestamp": 1545495833315
+		},
+		"most_recent_match": {
+			"mid": 2937666457,
+			"timestamp": 1545528252830
+		}
+	},
+	{
+		"id": "f80ndVFjLGlBNI4iz2N6AGfJ1ivsjR2cMMXUKnjI9Kd72ySe",
+		"times": 11,
+		"wins": 4,
+		"losses": 7,
+		"name": "Qiyanu Reevés",
+		"seconds": 16793,
+		"average_performance": 2.3181818181818183,
+		"performance_sd": 4.885042104591972,
+		"t_perf_avg": 5.136363636363637,
+		"t_perf_sd": 6.136329966237592,
+		"oldest_match": {
+			"mid": 3213183657,
+			"timestamp": 1574379841493
+		},
+		"most_recent_match": {
+			"mid": 3221432815,
+			"timestamp": 1575075294634
+		}
+	},
+	{
+		"id": "ox4fZlDPVB_p_ic4Nvo5zK95bR5wQbyAqCokrt5MlVCUAqI",
+		"times": 10,
+		"wins": 3,
+		"losses": 7,
+		"name": "Need Mommy Gf",
+		"seconds": 14542,
+		"average_performance": 7.15,
+		"performance_sd": 8.027902728746918,
+		"t_perf_avg": 3.35,
+		"t_perf_sd": 5.543013620766234,
+		"oldest_match": {
+			"mid": 2843837793,
+			"timestamp": 1533939845220
+		},
+		"most_recent_match": {
+			"mid": 3223285134,
+			"timestamp": 1575241106356
+		}
+	},
+	{
+		"id": "q631n10sFCiy0mx2KQJp2OsP2GkzUDA3NTtcU0SOM4BvOBl1",
+		"times": 10,
+		"wins": 6,
+		"losses": 4,
+		"name": "Pet Me Master",
+		"seconds": 16798,
+		"average_performance": 7.15,
+		"performance_sd": 8.310134375167067,
+		"t_perf_avg": 3.7,
+		"t_perf_sd": 7.937953836544473,
+		"oldest_match": {
+			"mid": 3349077967,
+			"timestamp": 1585486668048
+		},
+		"most_recent_match": {
+			"mid": 3362156869,
+			"timestamp": 1586123768321
+		}
+	},
+	{
+		"id": "GYUDEw29uvGh6RXaiv8ao1D_DR9QBzwwP9WucPJS_TwNSl8",
+		"times": 10,
+		"wins": 5,
+		"losses": 5,
+		"name": "LessProfanity",
+		"seconds": 13403,
+		"average_performance": 5.55,
+		"performance_sd": 9.38216392949942,
+		"t_perf_avg": 3,
+		"t_perf_sd": 8.154753215150045,
+		"oldest_match": {
+			"mid": 3860316671,
+			"timestamp": 1618016202561
+		},
+		"most_recent_match": {
+			"mid": 4033782366,
+			"timestamp": 1630897943912
+		}
+	},
+	{
+		"id": "zMtBxps5mIrXPIaH_JEbrlNcMW5lT2BBk8oiyBxPzvGI407S",
+		"times": 9,
+		"wins": 6,
+		"losses": 3,
+		"name": "GothicAlice",
+		"seconds": 15694,
+		"average_performance": 3.111111111111111,
+		"performance_sd": 5.085382100797452,
+		"t_perf_avg": 4.944444444444445,
+		"t_perf_sd": 7.891627067834477,
+		"oldest_match": {
+			"mid": 2978155307,
+			"timestamp": 1550254840754
+		},
+		"most_recent_match": {
+			"mid": 2983273183,
+			"timestamp": 1550803646448
+		}
+	},
+	{
+		"id": "I_1UP83FgNIgdiYxVeulzhIqQDMCVONeDZf6V8QbD-spqgM",
+		"times": 9,
+		"wins": 5,
+		"losses": 4,
+		"name": "PRJ Doublstuf",
+		"seconds": 15076,
+		"average_performance": 3,
+		"performance_sd": 5.055937104039171,
+		"t_perf_avg": 5.833333333333333,
+		"t_perf_sd": 8.154753215150045,
+		"oldest_match": {
+			"mid": 3148767079,
+			"timestamp": 1568390052422
+		},
+		"most_recent_match": {
+			"mid": 3176932565,
+			"timestamp": 1571325602546
+		}
+	},
+	{
+		"id": "SKAIC65u7MBKiSYjbAyD5YxIDF9_lhJt5sjsrzHQ28Eqc1E",
+		"times": 9,
+		"wins": 4,
+		"losses": 5,
+		"name": "ƒraise",
+		"seconds": 12663,
+		"average_performance": 3,
+		"performance_sd": 5.111262075065218,
+		"t_perf_avg": 3.5,
+		"t_perf_sd": 7.984359711335656,
+		"oldest_match": {
+			"mid": 3313890460,
+			"timestamp": 1583265823700
+		},
+		"most_recent_match": {
+			"mid": 3333364423,
+			"timestamp": 1584737935756
+		}
+	},
+	{
+		"id": "qPec-4WjNBplxOiDyoSzTiAutMMWaIAbQHWOTiBnAw1jB-0",
+		"times": 9,
+		"wins": 4,
+		"losses": 5,
+		"name": "minty",
+		"seconds": 10719,
+		"average_performance": 7.555555555555555,
+		"performance_sd": 5.508200956553581,
+		"t_perf_avg": 3.6666666666666665,
+		"t_perf_sd": 5.606915373001451,
+		"oldest_match": {
+			"mid": 3440130019,
+			"timestamp": 1590695852105
+		},
+		"most_recent_match": {
+			"mid": 3447857210,
+			"timestamp": 1591214976272
+		}
+	},
+	{
+		"id": "oxosctHyYhZiIdQf2qpU5m7TXhsnTe2qU2Jvq92SI6PqUWE",
+		"times": 9,
+		"wins": 3,
+		"losses": 6,
+		"name": "Lamboyant",
+		"seconds": 9805,
+		"average_performance": 8.333333333333334,
+		"performance_sd": 5.2141634036535525,
+		"t_perf_avg": 4.555555555555555,
+		"t_perf_sd": 5.56464534159885,
+		"oldest_match": {
+			"mid": 3446816273,
+			"timestamp": 1591130054269
+		},
+		"most_recent_match": {
+			"mid": 3455759818,
+			"timestamp": 1591755746935
+		}
+	},
+	{
+		"id": "dOMpEvpV-mfQVCOQZ4szI_kMMnkfEVEy22IcMwKOZlwm9tc",
+		"times": 9,
+		"wins": 6,
+		"losses": 3,
+		"name": "HideYourMind",
+		"seconds": 14645,
+		"average_performance": 4.5,
+		"performance_sd": 5.460082416960389,
+		"t_perf_avg": 7,
+		"t_perf_sd": 7.128288714691626,
+		"oldest_match": {
+			"mid": 3852775212,
+			"timestamp": 1617498401852
+		},
+		"most_recent_match": {
+			"mid": 3980317061,
+			"timestamp": 1626559403979
+		}
+	},
+	{
+		"id": "YFzdU-ZgO887hAsKRo9pFZCrMYDDlTtOeZ0EZw2c7E-KKK0",
+		"times": 9,
+		"wins": 6,
+		"losses": 3,
+		"name": "Gnartic Monkeys",
+		"seconds": 12480,
+		"average_performance": 5.111111111111111,
+		"performance_sd": 6.881940940687527,
+		"t_perf_avg": 6.055555555555555,
+		"t_perf_sd": 7.514338146355791,
+		"oldest_match": {
+			"mid": 3871592869,
+			"timestamp": 1618726017263
+		},
+		"most_recent_match": {
+			"mid": 3875896125,
+			"timestamp": 1619034042874
+		}
+	},
+	{
+		"id": "3ESnUjbZqpbeA9cuU413dQr7iprmHWnBvwsuRJ1pdtmSV09LCmT1wK0ICw",
+		"times": 9,
+		"wins": 4,
+		"losses": 5,
+		"name": "Blamesme",
+		"seconds": 10256,
+		"average_performance": 11.055555555555555,
+		"performance_sd": 7.851928284044486,
+		"t_perf_avg": 9.666666666666666,
+		"t_perf_sd": 7.171994143890526,
+		"oldest_match": {
+			"mid": 4122313314,
+			"timestamp": 1638239654000
+		},
+		"most_recent_match": {
+			"mid": 4145476949,
+			"timestamp": 1639955449000
+		}
+	},
+	{
+		"id": "cndxQhiP6UGwAykE1cA6lTVDx_kw-PI2TRXnIW-eIiH7IcU",
+		"times": 8,
+		"wins": 4,
+		"losses": 4,
+		"name": "pikachu0666",
+		"seconds": 15006,
+		"average_performance": 1.6875,
+		"performance_sd": 5.223145603944045,
+		"t_perf_avg": 7.875,
+		"t_perf_sd": 8.999007881824689,
+		"oldest_match": {
+			"mid": 2904736110,
+			"timestamp": 1541694556902
+		},
+		"most_recent_match": {
+			"mid": 2905485964,
+			"timestamp": 1541801636236
+		}
+	},
+	{
+		"id": "QAqOQvpu0eOU7U8XK3IVaindogPQ2VarCDjgEh1SDz3IUuM",
+		"times": 8,
+		"wins": 5,
+		"losses": 3,
+		"name": "ianace",
+		"seconds": 12536,
+		"average_performance": 11.0625,
+		"performance_sd": 9.972954498470923,
+		"t_perf_avg": 4.1875,
+		"t_perf_sd": 9.475296829123613,
+		"oldest_match": {
+			"mid": 2932164123,
+			"timestamp": 1544821130635
+		},
+		"most_recent_match": {
+			"mid": 4045442499,
+			"timestamp": 1631932952000
+		}
+	},
+	{
+		"id": "VznPfZxTNyCBmtfyO65WmnMnYG3SXKzOgGDL9NP90xyRUJM",
+		"times": 8,
+		"wins": 2,
+		"losses": 6,
+		"name": "WarHeat",
+		"seconds": 14238,
+		"average_performance": 2,
+		"performance_sd": 3.882193783343198,
+		"t_perf_avg": 3.6875,
+		"t_perf_sd": 6.41948762975453,
+		"oldest_match": {
+			"mid": 3229024844,
+			"timestamp": 1575826988057
+		},
+		"most_recent_match": {
+			"mid": 3618380297,
+			"timestamp": 1602776122699
+		}
+	},
+	{
+		"id": "Zk68rbdqgRwIQwBSn4ZmkJB-D05FI8j4PlKCjR2HCMynbe5L",
+		"times": 8,
+		"wins": 4,
+		"losses": 4,
+		"name": "PutricideX",
+		"seconds": 9182,
+		"average_performance": 9,
+		"performance_sd": 5.257647491307984,
+		"t_perf_avg": 9.625,
+		"t_perf_sd": 6.577830732305077,
+		"oldest_match": {
+			"mid": 3319824914,
+			"timestamp": 1583797759475
+		},
+		"most_recent_match": {
+			"mid": 3383802637,
+			"timestamp": 1587337941369
+		}
+	},
+	{
+		"id": "XEtHDsuHWAtpQZvgHZzFCWSwfczgzTk8783Rk-60ycDqSdWFkuNC3npJzw",
+		"times": 8,
+		"wins": 4,
+		"losses": 4,
+		"name": "Xiao Lei Fang",
+		"seconds": 10640,
+		"average_performance": 3.125,
+		"performance_sd": 4.405759217854998,
+		"t_perf_avg": 2.5,
+		"t_perf_sd": 5.522680508593631,
+		"oldest_match": {
+			"mid": 3763609393,
+			"timestamp": 1611862128358
+		},
+		"most_recent_match": {
+			"mid": 3825745655,
+			"timestamp": 1615762883520
+		}
+	},
+	{
+		"id": "AN-CbOXWfpjhaDJdff_RNA_eUDy47qwoYR9lT1xzHfXi6Ew",
+		"times": 8,
+		"wins": 5,
+		"losses": 3,
+		"name": "YoMerryChristmas",
+		"seconds": 12826,
+		"average_performance": 7.1875,
+		"performance_sd": 6.649046655616987,
+		"t_perf_avg": 8,
+		"t_perf_sd": 6.22781777878209,
+		"oldest_match": {
+			"mid": 3794884578,
+			"timestamp": 1613780748259
+		},
+		"most_recent_match": {
+			"mid": 3806938271,
+			"timestamp": 1614562039312
+		}
+	},
+	{
+		"id": "mFgvtNTnZftXf1r3fFbGL-4fecsZTDX3WDI4GQu6jX4-Zlc",
+		"times": 7,
+		"wins": 4,
+		"losses": 3,
+		"name": "God Alien",
+		"seconds": 11593,
+		"average_performance": 7.571428571428571,
+		"performance_sd": 6.078847008469695,
+		"t_perf_avg": 1.7857142857142858,
+		"t_perf_sd": 4.689146536214798,
+		"oldest_match": {
+			"mid": 3054189888,
+			"timestamp": 1559168661784
+		},
+		"most_recent_match": {
+			"mid": 3235201840,
+			"timestamp": 1576366611993
+		}
+	},
+	{
+		"id": "I3aQV_mYnbcMSYG_L6f0fjlCcBMo-Ug4bZ6l7zx3jCAVmeU",
+		"times": 7,
+		"wins": 4,
+		"losses": 3,
+		"name": "LuxAaria",
+		"seconds": 12364,
+		"average_performance": -1.2857142857142858,
+		"performance_sd": 3.3523268393901033,
+		"t_perf_avg": 7.785714285714286,
+		"t_perf_sd": 5.2903776082710054,
+		"oldest_match": {
+			"mid": 3059900123,
+			"timestamp": 1559768635141
+		},
+		"most_recent_match": {
+			"mid": 3873680168,
+			"timestamp": 1618877414063
+		}
+	},
+	{
+		"id": "Weeu0Vb-WVg8FcU5h2gzI43sD5kDYtKLp6WtgdBvKh8UoH4",
+		"times": 7,
+		"wins": 6,
+		"losses": 1,
+		"name": "The Grey Sack",
+		"seconds": 13008,
+		"average_performance": 3.7142857142857144,
+		"performance_sd": 4.733366867755119,
+		"t_perf_avg": 13.285714285714286,
+		"t_perf_sd": 8.082167318945368,
+		"oldest_match": {
+			"mid": 3126390857,
+			"timestamp": 1566068016855
+		},
+		"most_recent_match": {
+			"mid": 3682173790,
+			"timestamp": 1606486406623
+		}
+	},
+	{
+		"id": "t7h8XIFOwun-DzwomlFxP4R4Z95Ieo99LyaK0d8LMq7y6A4",
+		"times": 7,
+		"wins": 5,
+		"losses": 2,
+		"name": "supportless",
+		"seconds": 8643,
+		"average_performance": 5.357142857142857,
+		"performance_sd": 4.947341758580104,
+		"t_perf_avg": 5.642857142857143,
+		"t_perf_sd": 6.2230370781629185,
+		"oldest_match": {
+			"mid": 3312996591,
+			"timestamp": 1583192374939
+		},
+		"most_recent_match": {
+			"mid": 3998624789,
+			"timestamp": 1627959307277
+		}
+	},
+	{
+		"id": "vc4r7siggCAGKbvbYkhkj48P8NXyTBXPxBGp4zDtRZiyhhY",
+		"times": 7,
+		"wins": 6,
+		"losses": 1,
+		"name": "ElfWarrior123",
+		"seconds": 12048,
+		"average_performance": 5.571428571428571,
+		"performance_sd": 5.6893802491174394,
+		"t_perf_avg": 5.357142857142857,
+		"t_perf_sd": 5.639993245521116,
+		"oldest_match": {
+			"mid": 3468324371,
+			"timestamp": 1592691830586
+		},
+		"most_recent_match": {
+			"mid": 3468688701,
+			"timestamp": 1592708108653
+		}
+	},
+	{
+		"id": "KKOK_PIGOIcY_fwo17vrg-uyR6iTgeKTaizW0Ww5FS49Ysff",
+		"times": 7,
+		"wins": 4,
+		"losses": 3,
+		"name": "Comfortless",
+		"seconds": 12230,
+		"average_performance": 6.285714285714286,
+		"performance_sd": 6.632352164812665,
+		"t_perf_avg": 1.3571428571428572,
+		"t_perf_sd": 5.864542364316004,
+		"oldest_match": {
+			"mid": 3560047443,
+			"timestamp": 1599091200142
+		},
+		"most_recent_match": {
+			"mid": 3565463495,
+			"timestamp": 1599448296800
+		}
+	},
+	{
+		"id": "fFey7PGnb_MnckdXNFGQZiYF6mO1XSaCLVytE072IPouico",
+		"times": 7,
+		"wins": 3,
+		"losses": 4,
+		"name": "Sertonix",
+		"seconds": 9699,
+		"average_performance": 8.642857142857142,
+		"performance_sd": 6.768273325562717,
+		"t_perf_avg": 8.071428571428571,
+		"t_perf_sd": 6.366766391639816,
+		"oldest_match": {
+			"mid": 3714059318,
+			"timestamp": 1608593098109
+		},
+		"most_recent_match": {
+			"mid": 4122206393,
+			"timestamp": 1638236888000
+		}
+	},
+	{
+		"id": "PsLchbsGuNM7twQQx_PjkY8bWsKT7_9V5gG7j8uqaTmP8eo",
+		"times": 7,
+		"wins": 5,
+		"losses": 2,
+		"name": "TaIøn",
+		"seconds": 11297,
+		"average_performance": 1.8571428571428572,
+		"performance_sd": 4.365721453496983,
+		"t_perf_avg": 6.642857142857143,
+		"t_perf_sd": 4.5799771261645486,
+		"oldest_match": {
+			"mid": 3801906944,
+			"timestamp": 1614222194800
+		},
+		"most_recent_match": {
+			"mid": 3999482390,
+			"timestamp": 1628038036746
+		}
+	},
+	{
+		"id": "5MWrHO83Qphd5R1n6wj_HCkqzgxYjZ7iwNwMrf_WA2mDPmrW",
+		"times": 7,
+		"wins": 4,
+		"losses": 3,
+		"name": "Pepsi Doge",
+		"seconds": 8224,
+		"average_performance": 10.5,
+		"performance_sd": 9.587318012179772,
+		"t_perf_avg": 7.357142857142857,
+		"t_perf_sd": 7.592289321598403,
+		"oldest_match": {
+			"mid": 3871068171,
+			"timestamp": 1618698241153
+		},
+		"most_recent_match": {
+			"mid": 3872404371,
+			"timestamp": 1618794011800
+		}
+	},
+	{
+		"id": "vxUyJQXmltSed3U9eSbMJawt6VqJ1rgBST05kXCHgRsHups",
+		"times": 7,
+		"wins": 1,
+		"losses": 6,
+		"name": "RedDragon9OOO",
+		"seconds": 8972,
+		"average_performance": 3.5714285714285716,
+		"performance_sd": 6.241184258807054,
+		"t_perf_avg": 5.642857142857143,
+		"t_perf_sd": 7.520606611804916,
+		"oldest_match": {
+			"mid": 3974280911,
+			"timestamp": 1626056805974
+		},
+		"most_recent_match": {
+			"mid": 4088450356,
+			"timestamp": 1635814862000
+		}
+	},
+	{
+		"id": "Y3Jp7XsUW0-9PUqdEbQnc-3mp6IMOh2Tz7R82nIGVsgZXUE",
+		"times": 6,
+		"wins": 3,
+		"losses": 3,
+		"name": "xPsychKineticx",
+		"seconds": 10366,
+		"average_performance": 3.0833333333333335,
+		"performance_sd": 3.6113247800034083,
+		"t_perf_avg": 3.25,
+		"t_perf_sd": 5.5565276927232174,
+		"oldest_match": {
+			"mid": 2810664096,
+			"timestamp": 1529709243762
+		},
+		"most_recent_match": {
+			"mid": 2811074570,
+			"timestamp": 1529784228051
+		}
+	},
+	{
+		"id": "giM3tfT2OPLJki2mpn4-lRXcGEwmQ2ymOnRY--GlpYUpkrk",
+		"times": 6,
+		"wins": 3,
+		"losses": 3,
+		"name": "TheTinball",
+		"seconds": 8542,
+		"average_performance": 12.583333333333334,
+		"performance_sd": 11.141887930986682,
+		"t_perf_avg": 1.5,
+		"t_perf_sd": 5.449770637375485,
+		"oldest_match": {
+			"mid": 2829373809,
+			"timestamp": 1532036867211
+		},
+		"most_recent_match": {
+			"mid": 3410305039,
+			"timestamp": 1588898272625
+		}
+	},
+	{
+		"id": "ajrDJRubJIxyPWa9KaM7rvIPJ9re4D2NS8dATea1qJOaFNg",
+		"times": 6,
+		"wins": 2,
+		"losses": 4,
+		"name": "vixxs",
+		"seconds": 10219,
+		"average_performance": -0.3333333333333333,
+		"performance_sd": 9.075608335900501,
+		"t_perf_avg": 5.916666666666667,
+		"t_perf_sd": 7.419007121351662,
+		"oldest_match": {
+			"mid": 2849996576,
+			"timestamp": 1534773793365
+		},
+		"most_recent_match": {
+			"mid": 2850632579,
+			"timestamp": 1534869256408
+		}
+	},
+	{
+		"id": "omIsqy6iQYEoEtj5ayoSnRutaGd5OHzL0TCDYs4oXoSTrhM",
+		"times": 6,
+		"wins": 3,
+		"losses": 3,
+		"name": "Dr70K4",
+		"seconds": 11038,
+		"average_performance": -2.25,
+		"performance_sd": 5.628054726102084,
+		"t_perf_avg": 13.666666666666666,
+		"t_perf_sd": 13.93078126548065,
+		"oldest_match": {
+			"mid": 2905435301,
+			"timestamp": 1541794656012
+		},
+		"most_recent_match": {
+			"mid": 3482993906,
+			"timestamp": 1593876133428
+		}
+	},
+	{
+		"id": "gU-AO_mSKOOSN383HXJtmCyLhAGUTqbEnELUN75SSB41niE",
+		"times": 6,
+		"wins": 3,
+		"losses": 3,
+		"name": "briandrippy2x",
+		"seconds": 7084,
+		"average_performance": 2.9166666666666665,
+		"performance_sd": 3.513070831433187,
+		"t_perf_avg": 9.666666666666666,
+		"t_perf_sd": 5.879342366852493,
+		"oldest_match": {
+			"mid": 3070315789,
+			"timestamp": 1560960636984
+		},
+		"most_recent_match": {
+			"mid": 4044948266,
+			"timestamp": 1631897417000
+		}
+	},
+	{
+		"id": "jKLNRFpYe92DiQYIPocQX2M5KGKNSSsYJEvFeEL6QhHQpMw",
+		"times": 6,
+		"wins": 5,
+		"losses": 1,
+		"name": "Excalibrie",
+		"seconds": 9620,
+		"average_performance": 7.083333333333333,
+		"performance_sd": 5.756879942005623,
+		"t_perf_avg": 10.916666666666666,
+		"t_perf_sd": 5.453592088400696,
+		"oldest_match": {
+			"mid": 3297993630,
+			"timestamp": 1581865601418
+		},
+		"most_recent_match": {
+			"mid": 3298095909,
+			"timestamp": 1581877094299
+		}
+	},
+	{
+		"id": "BI0mL4V9PbqMI7_wPP8OpsGd5xHKIBzcUTYn5AfYMEogQ0k",
+		"times": 6,
+		"wins": 4,
+		"losses": 2,
+		"name": "pasito tun tun",
+		"seconds": 6671,
+		"average_performance": 6.916666666666667,
+		"performance_sd": 8.856730021100713,
+		"t_perf_avg": 8.416666666666666,
+		"t_perf_sd": 6.981523233984591,
+		"oldest_match": {
+			"mid": 3319791606,
+			"timestamp": 1583791722337
+		},
+		"most_recent_match": {
+			"mid": 3383802637,
+			"timestamp": 1587337941369
+		}
+	},
+	{
+		"id": "WuHoMRdcDeQnkXtmbbMuPh3T9pUbwoMF3rFsglN3z6sJzpA",
+		"times": 6,
+		"wins": 2,
+		"losses": 4,
+		"name": "Sunshine527",
+		"seconds": 9441,
+		"average_performance": 4.333333333333333,
+		"performance_sd": 4.88535225614967,
+		"t_perf_avg": 10.666666666666666,
+		"t_perf_sd": 7.846442930823283,
+		"oldest_match": {
+			"mid": 3358318125,
+			"timestamp": 1585948155444
+		},
+		"most_recent_match": {
+			"mid": 4024268642,
+			"timestamp": 1630073026723
+		}
+	},
+	{
+		"id": "nMFET4onXZZaDz23b6p6ApOUkDkXQ0VBnH3_5rZSMb7YtCM",
+		"times": 6,
+		"wins": 4,
+		"losses": 2,
+		"name": "Unhopeful",
+		"seconds": 10842,
+		"average_performance": 5,
+		"performance_sd": 5.856620185738529,
+		"t_perf_avg": 1.9166666666666667,
+		"t_perf_sd": 6.2162421660249585,
+		"oldest_match": {
+			"mid": 3563930092,
+			"timestamp": 1599355798581
+		},
+		"most_recent_match": {
+			"mid": 3565463495,
+			"timestamp": 1599448296800
+		}
+	},
+	{
+		"id": "TFheeWxk7vsBRvLGSt2U94x5JMGeGzdavR6nF62TzEwL",
+		"times": 6,
+		"wins": 4,
+		"losses": 2,
+		"name": "Homar",
+		"seconds": 8698,
+		"average_performance": 4.083333333333333,
+		"performance_sd": 5.276520318037889,
+		"t_perf_avg": 12.833333333333334,
+		"t_perf_sd": 7.103989489481714,
+		"oldest_match": {
+			"mid": 3682068762,
+			"timestamp": 1606482317535
+		},
+		"most_recent_match": {
+			"mid": 4070123254,
+			"timestamp": 1634137291000
+		}
+	},
+	{
+		"id": "9rFWGGZf1ZXeCNYCeZ0XS78Bth36No3a3RTOdanmouGh9vd0",
+		"times": 6,
+		"wins": 4,
+		"losses": 2,
+		"name": "GingerAvacado",
+		"seconds": 6891,
+		"average_performance": 16.166666666666668,
+		"performance_sd": 3.8944404818493075,
+		"t_perf_avg": 8.583333333333334,
+		"t_perf_sd": 5.453592088400697,
+		"oldest_match": {
+			"mid": 3727248577,
+			"timestamp": 1609542286493
+		},
+		"most_recent_match": {
+			"mid": 3727919177,
+			"timestamp": 1609568548639
+		}
+	},
+	{
+		"id": "EsMTrIl6dKRk4IlO0oaF7jBAL2mtHiCJRNGTXinv8zzSq6s7",
+		"times": 6,
+		"wins": 5,
+		"losses": 1,
+		"name": "BELIAL KING",
+		"seconds": 7936,
+		"average_performance": 9.666666666666666,
+		"performance_sd": 7.1949056051255225,
+		"t_perf_avg": 7.5,
+		"t_perf_sd": 8.54400374531753,
+		"oldest_match": {
+			"mid": 3762570082,
+			"timestamp": 1611784944748
+		},
+		"most_recent_match": {
+			"mid": 3767401684,
+			"timestamp": 1612074864860
+		}
+	},
+	{
+		"id": "rW1kAengWQO-_BfW-ymihaoR692HtDGodV14NRGRImoCiRo",
+		"times": 6,
+		"wins": 1,
+		"losses": 5,
+		"name": "nooklos",
+		"seconds": 7776,
+		"average_performance": -1.5,
+		"performance_sd": 4.6475800154489,
+		"t_perf_avg": 5.083333333333333,
+		"t_perf_sd": 7.638171683502975,
+		"oldest_match": {
+			"mid": 3825760153,
+			"timestamp": 1615761085874
+		},
+		"most_recent_match": {
+			"mid": 3976311572,
+			"timestamp": 1626218676565
+		}
+	},
+	{
+		"id": "LwohsG9g1aU8FoQ4ZWNbjIK_qaCAqW0v10vL5qDJsL-A9Eb6scZymdjvYA",
+		"times": 6,
+		"wins": 4,
+		"losses": 2,
+		"name": "DFR",
+		"seconds": 8050,
+		"average_performance": 7,
+		"performance_sd": 9.016651263079881,
+		"t_perf_avg": 0,
+		"t_perf_sd": 6.534523701081817,
+		"oldest_match": {
+			"mid": 3962836266,
+			"timestamp": 1625132504993
+		},
+		"most_recent_match": {
+			"mid": 4096110799,
+			"timestamp": 1636401489000
+		}
+	},
+	{
+		"id": "bTmHEV1Z4Pdj06DbvbpaaNopHdj-FB-SvDh30OsIotlj6P8",
+		"times": 5,
+		"wins": 2,
+		"losses": 3,
+		"name": "DrewKayu",
+		"seconds": 11350,
+		"average_performance": 11.3,
+		"performance_sd": 8.00468612751306,
+		"t_perf_avg": 0.4,
+		"t_perf_sd": 2.701851217221259,
+		"oldest_match": {
+			"mid": 2829863314,
+			"timestamp": 1532123935444
+		},
+		"most_recent_match": {
+			"mid": 2839785002,
+			"timestamp": 1533416679387
+		}
+	},
+	{
+		"id": "1YPEufnNTPQwNegbrDrFrDRDrz4MzVlLDW_CVsGp-AqqC3o",
+		"times": 5,
+		"wins": 4,
+		"losses": 1,
+		"name": "Raised Posterior",
+		"seconds": 7877,
+		"average_performance": 5.7,
+		"performance_sd": 4.957317823178174,
+		"t_perf_avg": 3,
+		"t_perf_sd": 5.830951894845301,
+		"oldest_match": {
+			"mid": 2936873073,
+			"timestamp": 1545432550782
+		},
+		"most_recent_match": {
+			"mid": 2999347331,
+			"timestamp": 1552690662920
+		}
+	},
+	{
+		"id": "k7W8835F3oYYztQ6vb7AngEELCwo_hEujdQxLp5akdB2m5Y",
+		"times": 5,
+		"wins": 3,
+		"losses": 2,
+		"name": "zheng chen",
+		"seconds": 9515,
+		"average_performance": 5.6,
+		"performance_sd": 3.305298776207682,
+		"t_perf_avg": 5.1,
+		"t_perf_sd": 7.700649323271382,
+		"oldest_match": {
+			"mid": 2973073548,
+			"timestamp": 1549659596690
+		},
+		"most_recent_match": {
+			"mid": 2983689659,
+			"timestamp": 1550875121543
+		}
+	},
+	{
+		"id": "ENgB91-I9sy8v4C5pYStcmMo-kl9iOszfDFuC8F_a5fZ12k",
+		"times": 5,
+		"wins": 3,
+		"losses": 2,
+		"name": "OneHundredYears",
+		"seconds": 7113,
+		"average_performance": 17.9,
+		"performance_sd": 6.767569726275452,
+		"t_perf_avg": 6.7,
+		"t_perf_sd": 7.259476565152614,
+		"oldest_match": {
+			"mid": 3135546798,
+			"timestamp": 1566958997291
+		},
+		"most_recent_match": {
+			"mid": 3135651104,
+			"timestamp": 1566965757653
+		}
+	},
+	{
+		"id": "InIg5lWoGn3yCREoNNvcKZDg9McfLypZ1vH-3VHMmql-tww",
+		"times": 5,
+		"wins": 3,
+		"losses": 2,
+		"name": "KurzaSolis",
+		"seconds": 10273,
+		"average_performance": 0.2,
+		"performance_sd": 4.777551674236502,
+		"t_perf_avg": 13.4,
+		"t_perf_sd": 7.1536703865917675,
+		"oldest_match": {
+			"mid": 3297993630,
+			"timestamp": 1581865601418
+		},
+		"most_recent_match": {
+			"mid": 4070121803,
+			"timestamp": 1634135416000
+		}
+	},
+	{
+		"id": "WXUd0og45_johbTJRWFD9IN-VwSSVclMnNJxUXfpo3DjafU",
+		"times": 5,
+		"wins": 1,
+		"losses": 4,
+		"name": "SBU Angetsu",
+		"seconds": 5610,
+		"average_performance": 6.4,
+		"performance_sd": 5.845938761225608,
+		"t_perf_avg": 8.7,
+		"t_perf_sd": 5.815926409438139,
+		"oldest_match": {
+			"mid": 3447879627,
+			"timestamp": 1591216702353
+		},
+		"most_recent_match": {
+			"mid": 4041604570,
+			"timestamp": 1631580066000
+		}
+	},
+	{
+		"id": "ijVGrMEmBsFcpNl5H09fkYROniY3-edSTXlXBk6ddVsc4T4",
+		"times": 5,
+		"wins": 1,
+		"losses": 4,
+		"name": "AFKennedy",
+		"seconds": 7969,
+		"average_performance": -2.3,
+		"performance_sd": 1.396424004376894,
+		"t_perf_avg": 1.8,
+		"t_perf_sd": 6.1400325732035,
+		"oldest_match": {
+			"mid": 3525695521,
+			"timestamp": 1596845715468
+		},
+		"most_recent_match": {
+			"mid": 3851727629,
+			"timestamp": 1617427808964
+		}
+	},
+	{
+		"id": "z-hhgJSts3M19UqxJsq5ScQAqRtHbA9A-7tMPJ8ICTyyq98y",
+		"times": 5,
+		"wins": 3,
+		"losses": 2,
+		"name": "Sjenkas",
+		"seconds": 8253,
+		"average_performance": 2.9,
+		"performance_sd": 11.545561917897285,
+		"t_perf_avg": 6.6,
+		"t_perf_sd": 10.212737145349427,
+		"oldest_match": {
+			"mid": 3608576538,
+			"timestamp": 1602181967681
+		},
+		"most_recent_match": {
+			"mid": 4075608549,
+			"timestamp": 1634660987000
+		}
+	},
+	{
+		"id": "JEr1Luoyrd37PPcSSiE2WVQWo8b-zSgVzVCX7L3zb9WoaEE",
+		"times": 5,
+		"wins": 3,
+		"losses": 2,
+		"name": "King Vulpes",
+		"seconds": 9192,
+		"average_performance": 4.5,
+		"performance_sd": 6.782329983125268,
+		"t_perf_avg": 5.2,
+		"t_perf_sd": 9.05952537388135,
+		"oldest_match": {
+			"mid": 3652271043,
+			"timestamp": 1604783901785
+		},
+		"most_recent_match": {
+			"mid": 3663591822,
+			"timestamp": 1605384629458
+		}
+	},
+	{
+		"id": "UGm9L3DvZB3moLi4BZvJA-uVXuCgSLiXWqcUdhp0dQeK4KU",
+		"times": 5,
+		"wins": 2,
+		"losses": 3,
+		"name": "Wonder Suave",
+		"seconds": 8413,
+		"average_performance": 3.3,
+		"performance_sd": 4.944694126030447,
+		"t_perf_avg": 5.8,
+		"t_perf_sd": 8.265893781074132,
+		"oldest_match": {
+			"mid": 3718973301,
+			"timestamp": 1608948833896
+		},
+		"most_recent_match": {
+			"mid": 3801826784,
+			"timestamp": 1614218907725
+		}
+	},
+	{
+		"id": "F10BAZqLbPnVRxcKCXoOdU-fA6f3Z05lA8xXitxr9hFrEeOkUw2QgpGL-w",
+		"times": 5,
+		"wins": 2,
+		"losses": 3,
+		"name": "73eggie fan",
+		"seconds": 7346,
+		"average_performance": 10.9,
+		"performance_sd": 3.5425979167836705,
+		"t_perf_avg": 11.9,
+		"t_perf_sd": 13.192801067248759,
+		"oldest_match": {
+			"mid": 3806908894,
+			"timestamp": 1614558823566
+		},
+		"most_recent_match": {
+			"mid": 4107067120,
+			"timestamp": 1637179072000
+		}
+	},
+	{
+		"id": "FgCdDYcqNH9TKw5yO6uJo6B5wziOhv_BJQmVBAWR0nDreHc",
+		"times": 5,
+		"wins": 4,
+		"losses": 1,
+		"name": "Kyuuri One Thicc",
+		"seconds": 7320,
+		"average_performance": 4.4,
+		"performance_sd": 3.56019662378358,
+		"t_perf_avg": 4.3,
+		"t_perf_sd": 8.220401450050964,
+		"oldest_match": {
+			"mid": 4109639077,
+			"timestamp": 1637368164000
+		},
+		"most_recent_match": {
+			"mid": 4109789634,
+			"timestamp": 1637376169000
+		}
+	},
+	{
+		"id": "wE5XDEATn4JVePb2tQWU-itT8Qdu9jTvSthAbPzJ4JLGD18",
+		"times": 4,
+		"wins": 3,
+		"losses": 1,
+		"name": "Watch9",
+		"seconds": 7252,
+		"average_performance": 9.25,
+		"performance_sd": 3.968626966596886,
+		"t_perf_avg": 0.25,
+		"t_perf_sd": 2.8722813232690143,
+		"oldest_match": {
+			"mid": 2890951107,
+			"timestamp": 1540071135698
+		},
+		"most_recent_match": {
+			"mid": 2911975365,
+			"timestamp": 1542497538560
+		}
+	},
+	{
+		"id": "0PbApNiJF2Swl09jExrly8x2uimt8dcuG6yPzArREkiFDtk",
+		"times": 4,
+		"wins": 1,
+		"losses": 3,
+		"name": "Eradicator J",
+		"seconds": 7011,
+		"average_performance": 1.625,
+		"performance_sd": 3.3509948771471834,
+		"t_perf_avg": 0.125,
+		"t_perf_sd": 4.0697051490249265,
+		"oldest_match": {
+			"mid": 2900150441,
+			"timestamp": 1541209548820
+		},
+		"most_recent_match": {
+			"mid": 2911823839,
+			"timestamp": 1542481563281
+		}
+	},
+	{
+		"id": "WPAT5D2JRAVt3rKZzWhUlZaPrnyhdm6OpwUc0ifS3SQNZDo",
+		"times": 4,
+		"wins": 1,
+		"losses": 3,
+		"name": "Echanz",
+		"seconds": 7443,
+		"average_performance": 3.125,
+		"performance_sd": 6.932712311931024,
+		"t_perf_avg": 5.625,
+		"t_perf_sd": 7.728464703074386,
+		"oldest_match": {
+			"mid": 2905435301,
+			"timestamp": 1541794656012
+		},
+		"most_recent_match": {
+			"mid": 2905485964,
+			"timestamp": 1541801636236
+		}
+	},
+	{
+		"id": "RTG1M6yiG3Q2r4GHt4yKC2-Mx4FkG7SKqWT5H0pct4be",
+		"times": 4,
+		"wins": 3,
+		"losses": 1,
+		"name": "Atheonz",
+		"seconds": 8590,
+		"average_performance": 6,
+		"performance_sd": 6.3377177806105145,
+		"t_perf_avg": 6.875,
+		"t_perf_sd": 6.289872812704562,
+		"oldest_match": {
+			"mid": 2936878778,
+			"timestamp": 1545434608525
+		},
+		"most_recent_match": {
+			"mid": 3235201840,
+			"timestamp": 1576366611993
+		}
+	},
+	{
+		"id": "TW5Sne3xg0CfUTxeZKt0zsGOcDNIZgVi1bYNitNzgItOrj0",
+		"times": 4,
+		"wins": 2,
+		"losses": 2,
+		"name": "Prenotion",
+		"seconds": 7165,
+		"average_performance": 6.375,
+		"performance_sd": 10.53070906128041,
+		"t_perf_avg": 3.125,
+		"t_perf_sd": 7.087253817006038,
+		"oldest_match": {
+			"mid": 3130878410,
+			"timestamp": 1566504271933
+		},
+		"most_recent_match": {
+			"mid": 3130939499,
+			"timestamp": 1566510818979
+		}
+	},
+	{
+		"id": "zZszVgW5MfeFAXBT2bYXPi8ffKXfV9a7WNZ-r8dOoaAtDVE",
+		"times": 4,
+		"wins": 2,
+		"losses": 2,
+		"name": "Yin Rose",
+		"seconds": 8243,
+		"average_performance": 11.75,
+		"performance_sd": 3.662876829305985,
+		"t_perf_avg": 6.875,
+		"t_perf_sd": 3.5443617196894563,
+		"oldest_match": {
+			"mid": 3229024844,
+			"timestamp": 1575826988057
+		},
+		"most_recent_match": {
+			"mid": 4070104578,
+			"timestamp": 1634138956000
+		}
+	},
+	{
+		"id": "SlPkEqEvbDkAFwEJdTDfBMc-4B1PLEHl20ntt5HsKhLs6ss",
+		"times": 4,
+		"wins": 1,
+		"losses": 3,
+		"name": "PastaMondays",
+		"seconds": 6230,
+		"average_performance": 3.375,
+		"performance_sd": 5.647639624952475,
+		"t_perf_avg": -1.375,
+		"t_perf_sd": 5.25,
+		"oldest_match": {
+			"mid": 3312996591,
+			"timestamp": 1583192374939
+		},
+		"most_recent_match": {
+			"mid": 3331315449,
+			"timestamp": 1584645488178
+		}
+	},
+	{
+		"id": "CDWCYITXUZy5gOH9e_0TT8d5-yUCLNwIxDRzJC-6FoNV45E",
+		"times": 4,
+		"wins": 4,
+		"losses": 0,
+		"name": "HTT Koob",
+		"seconds": 4979,
+		"average_performance": 4.625,
+		"performance_sd": 2.6575364531836625,
+		"t_perf_avg": 8.875,
+		"t_perf_sd": 7.169088738001039,
+		"oldest_match": {
+			"mid": 3319688847,
+			"timestamp": 1583784916783
+		},
+		"most_recent_match": {
+			"mid": 3319747524,
+			"timestamp": 1583789867086
+		}
+	},
+	{
+		"id": "pC5sPGdOv9p5BgudfPAd34RQnGMY3ZUXXJywrqzkEmo3NLQ",
+		"times": 4,
+		"wins": 3,
+		"losses": 1,
+		"name": "Captin Lemon",
+		"seconds": 7385,
+		"average_performance": 1.5,
+		"performance_sd": 9.273618495495704,
+		"t_perf_avg": 22.375,
+		"t_perf_sd": 8.844725358464595,
+		"oldest_match": {
+			"mid": 3324215725,
+			"timestamp": 1584203960926
+		},
+		"most_recent_match": {
+			"mid": 3482993906,
+			"timestamp": 1593876133428
+		}
+	},
+	{
+		"id": "RZ_aiQKmM8GicupuQmHBvNu9FrcTDqfWIv-WhKIjG0DG7nY",
+		"times": 4,
+		"wins": 1,
+		"losses": 3,
+		"name": "Quit this game",
+		"seconds": 4871,
+		"average_performance": 7.875,
+		"performance_sd": 6.0604592785255695,
+		"t_perf_avg": 3.625,
+		"t_perf_sd": 5.421792446537707,
+		"oldest_match": {
+			"mid": 3324671563,
+			"timestamp": 1584231772783
+		},
+		"most_recent_match": {
+			"mid": 4101656627,
+			"timestamp": 1636788128000
+		}
+	},
+	{
+		"id": "ij94xLVje9qeKqDvbq7GYB0Zhbf74Gu4IqqBXwVj_weLEyTK",
+		"times": 4,
+		"wins": 2,
+		"losses": 2,
+		"name": "acaia",
+		"seconds": 5528,
+		"average_performance": 4,
+		"performance_sd": 4.654746681256314,
+		"t_perf_avg": 4.875,
+		"t_perf_sd": 9.629598468610551,
+		"oldest_match": {
+			"mid": 3383802637,
+			"timestamp": 1587337941369
+		},
+		"most_recent_match": {
+			"mid": 3882089855,
+			"timestamp": 1619455590243
+		}
+	},
+	{
+		"id": "TQGZJjoP6kl2HpxKeVbwjXfCEHdmdskWf2tltDBi57G2Ma2b",
+		"times": 4,
+		"wins": 4,
+		"losses": 0,
+		"name": "xxTIGERLOUISxx",
+		"seconds": 7320,
+		"average_performance": 5.25,
+		"performance_sd": 2.254624876411447,
+		"t_perf_avg": 21,
+		"t_perf_sd": 11.568635759385518,
+		"oldest_match": {
+			"mid": 3482993906,
+			"timestamp": 1593876133428
+		},
+		"most_recent_match": {
+			"mid": 3712481506,
+			"timestamp": 1608481212999
+		}
+	},
+	{
+		"id": "Csy4Wx7rf5LNWdpJlTNE3v1lAx0Le4URxa52XwH5bUUxRBqq",
+		"times": 4,
+		"wins": 3,
+		"losses": 1,
+		"name": "hirune030",
+		"seconds": 4445,
+		"average_performance": 1.375,
+		"performance_sd": 2.0966242709015206,
+		"t_perf_avg": 3.375,
+		"t_perf_sd": 5.893145736079048,
+		"oldest_match": {
+			"mid": 3507070499,
+			"timestamp": 1595631252670
+		},
+		"most_recent_match": {
+			"mid": 4093948394,
+			"timestamp": 1636239941000
+		}
+	},
+	{
+		"id": "x6VklIOWudH41i6s3F1e1iJxN8633frx3DpEDzMOfCVzetiCi88gbqVd3w",
+		"times": 4,
+		"wins": 1,
+		"losses": 3,
+		"name": "ˆˆˆˉˉˉˆˆˆ",
+		"seconds": 6789,
+		"average_performance": 4.875,
+		"performance_sd": 8.498774421448465,
+		"t_perf_avg": -1.75,
+		"t_perf_sd": 6.224949798994366,
+		"oldest_match": {
+			"mid": 3632780453,
+			"timestamp": 1603648471710
+		},
+		"most_recent_match": {
+			"mid": 3731136051,
+			"timestamp": 1609805416044
+		}
+	},
+	{
+		"id": "k7esO4PoAfYcvj12QogBd5H07QNISWVNjGfXk5l7FnADYU4",
+		"times": 4,
+		"wins": 3,
+		"losses": 1,
+		"name": "Kibbo",
+		"seconds": 6560,
+		"average_performance": 14.125,
+		"performance_sd": 4.3084219849035215,
+		"t_perf_avg": 13.75,
+		"t_perf_sd": 6.075908711186061,
+		"oldest_match": {
+			"mid": 3638157399,
+			"timestamp": 1603973405119
+		},
+		"most_recent_match": {
+			"mid": 3638226783,
+			"timestamp": 1603980364498
+		}
+	},
+	{
+		"id": "zdXzAs1_OrpgQ2_O0ATYVCPFo899KSihbJBPXCRk0VLEycc",
+		"times": 4,
+		"wins": 3,
+		"losses": 1,
+		"name": "actual12yearold",
+		"seconds": 5778,
+		"average_performance": 8.25,
+		"performance_sd": 5.605057240266746,
+		"t_perf_avg": 6.375,
+		"t_perf_sd": 13.14264686684789,
+		"oldest_match": {
+			"mid": 3655534852,
+			"timestamp": 1604963132133
+		},
+		"most_recent_match": {
+			"mid": 3806938271,
+			"timestamp": 1614562039312
+		}
+	},
+	{
+		"id": "fnf4TG_pqi7ClXdjZ8q0tcDxG4UndvPUOqJIl-aUm8lTX2A",
+		"times": 4,
+		"wins": 2,
+		"losses": 2,
+		"name": "toastly  ùwú",
+		"seconds": 4871,
+		"average_performance": 5,
+		"performance_sd": 8.736894948054104,
+		"t_perf_avg": 11.875,
+		"t_perf_sd": 7.760745239129208,
+		"oldest_match": {
+			"mid": 3727371305,
+			"timestamp": 1609547706765
+		},
+		"most_recent_match": {
+			"mid": 3767218104,
+			"timestamp": 1612067867478
+		}
+	},
+	{
+		"id": "FjmiFY2mT19df0V3kp2STedH5kgwKdEUHaU2rR10ShzZEr8",
+		"times": 4,
+		"wins": 2,
+		"losses": 2,
+		"name": "miguelanjel93",
+		"seconds": 4850,
+		"average_performance": 4.125,
+		"performance_sd": 3.275540667838924,
+		"t_perf_avg": 6.75,
+		"t_perf_sd": 8.798674142543675,
+		"oldest_match": {
+			"mid": 3733208459,
+			"timestamp": 1609946098861
+		},
+		"most_recent_match": {
+			"mid": 3733484156,
+			"timestamp": 1609951168274
+		}
+	},
+	{
+		"id": "GXfi-3OUkaRHBlKwZ0NfFjS-MoLJV9V-TDFsPc879r9HdD4",
+		"times": 4,
+		"wins": 2,
+		"losses": 2,
+		"name": "Sysuske",
+		"seconds": 5754,
+		"average_performance": 4.625,
+		"performance_sd": 5.793315113128234,
+		"t_perf_avg": 7.75,
+		"t_perf_sd": 5.979130371550699,
+		"oldest_match": {
+			"mid": 3767223120,
+			"timestamp": 1612066522779
+		},
+		"most_recent_match": {
+			"mid": 3798129291,
+			"timestamp": 1613964198094
+		}
+	},
+	{
+		"id": "EE3YDnW16F3y6ljPvqJW4eDzk90DazAFIWbQrMwGAU_lQRs",
+		"times": 4,
+		"wins": 4,
+		"losses": 0,
+		"name": "vaughanc",
+		"seconds": 6820,
+		"average_performance": 5.25,
+		"performance_sd": 4.133198922545748,
+		"t_perf_avg": 7.25,
+		"t_perf_sd": 0.8660254037844386,
+		"oldest_match": {
+			"mid": 3801906944,
+			"timestamp": 1614222194800
+		},
+		"most_recent_match": {
+			"mid": 3802049090,
+			"timestamp": 1614229145776
+		}
+	},
+	{
+		"id": "t3dshBBGIan2ObNbD9_mYAsy96_mTlewm8PhOPPEYJcVT84",
+		"times": 4,
+		"wins": 4,
+		"losses": 0,
+		"name": "Yung Todoroki",
+		"seconds": 4856,
+		"average_performance": 12.25,
+		"performance_sd": 8.684276980075351,
+		"t_perf_avg": 8.25,
+		"t_perf_sd": 6.788470618138767,
+		"oldest_match": {
+			"mid": 3817092319,
+			"timestamp": 1615238113479
+		},
+		"most_recent_match": {
+			"mid": 4079828214,
+			"timestamp": 1635028744000
+		}
+	},
+	{
+		"id": "Zbx0BurjLxRDWqD4_70iRld319Kq2P_nDQNwJKBolGUoGKH0",
+		"times": 4,
+		"wins": 0,
+		"losses": 4,
+		"name": "BundyChan",
+		"seconds": 4772,
+		"average_performance": 1,
+		"performance_sd": 7.153087911291645,
+		"t_perf_avg": 4.125,
+		"t_perf_sd": 9.357483636106451,
+		"oldest_match": {
+			"mid": 3844966352,
+			"timestamp": 1616985716243
+		},
+		"most_recent_match": {
+			"mid": 3976311572,
+			"timestamp": 1626218676565
+		}
+	},
+	{
+		"id": "K7X97ZbrMRilcolIm084_YRSumc8emihZ9tNSaPFqo2ORnc",
+		"times": 4,
+		"wins": 2,
+		"losses": 2,
+		"name": "KamGirl",
+		"seconds": 4373,
+		"average_performance": 13,
+		"performance_sd": 6.544717972023954,
+		"t_perf_avg": 10.25,
+		"t_perf_sd": 4.368447474027052,
+		"oldest_match": {
+			"mid": 4042952667,
+			"timestamp": 1631685286000
+		},
+		"most_recent_match": {
+			"mid": 4122356755,
+			"timestamp": 1638243794000
+		}
+	},
+	{
+		"id": "_6afyOSzHvJt4b-vHbCIZPO7U_NHUKK6rqix-cvnzqR9sAmw",
+		"times": 4,
+		"wins": 2,
+		"losses": 2,
+		"name": "OwO UmU OwO",
+		"seconds": 7974,
+		"average_performance": -0.875,
+		"performance_sd": 5.764474535173754,
+		"t_perf_avg": 6.125,
+		"t_perf_sd": 1.6520189667999174,
+		"oldest_match": {
+			"mid": 4161848357,
+			"timestamp": 1641160874000
+		},
+		"most_recent_match": {
+			"mid": 4162005736,
+			"timestamp": 1641168286000
+		}
+	},
+	{
+		"id": "FQTWMxVB8fx1v2J1YCuE82wG2Wofn0UrRVjhWpaIoNxWkNg",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "Ya Mudda",
+		"seconds": 4806,
+		"average_performance": 0.5,
+		"performance_sd": 7.810249675906654,
+		"t_perf_avg": 4.833333333333333,
+		"t_perf_sd": 5.346338310781813,
+		"oldest_match": {
+			"mid": 2835618908,
+			"timestamp": 1532906736786
+		},
+		"most_recent_match": {
+			"mid": 3026038841,
+			"timestamp": 1555893655028
+		}
+	},
+	{
+		"id": "C44y6IBnRTJSNJWgAzsKBhGxfUku-dw2dnQvLEbWsjOJuwU",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "Káppa",
+		"seconds": 3890,
+		"average_performance": 1,
+		"performance_sd": 5.220153254455275,
+		"t_perf_avg": 1.8333333333333333,
+		"t_perf_sd": 8.80814017448254,
+		"oldest_match": {
+			"mid": 2850099382,
+			"timestamp": 1534796095829
+		},
+		"most_recent_match": {
+			"mid": 2850139207,
+			"timestamp": 1534800271166
+		}
+	},
+	{
+		"id": "4EHxzzgF22qcxOKTgY4-rs3qE8T5PVJIIwU51yNgOGE5T0k",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "StinkyToes2",
+		"seconds": 3890,
+		"average_performance": 4.666666666666667,
+		"performance_sd": 6.429100507328637,
+		"t_perf_avg": 1.8333333333333333,
+		"t_perf_sd": 8.80814017448254,
+		"oldest_match": {
+			"mid": 2850099382,
+			"timestamp": 1534796095829
+		},
+		"most_recent_match": {
+			"mid": 2850139207,
+			"timestamp": 1534800271166
+		}
+	},
+	{
+		"id": "aev5Luda_wLYZrwV-Nr06gYyyzWbq_fYW_AK2rY1VA1kj98",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "RoyLee02",
+		"seconds": 5320,
+		"average_performance": 4.833333333333333,
+		"performance_sd": 7.76745346515403,
+		"t_perf_avg": 8.166666666666666,
+		"t_perf_sd": 0.7637626158259733,
+		"oldest_match": {
+			"mid": 2886600241,
+			"timestamp": 1539466749351
+		},
+		"most_recent_match": {
+			"mid": 2886625744,
+			"timestamp": 1539471123782
+		}
+	},
+	{
+		"id": "w9Wftdgxq4s6z69bL-pUAireoJ40y_J0oSRks_wjzPVkf6s",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "Amarren",
+		"seconds": 3833,
+		"average_performance": -0.5,
+		"performance_sd": 3.122498999199199,
+		"t_perf_avg": -0.6666666666666666,
+		"t_perf_sd": 4.310839052125854,
+		"oldest_match": {
+			"mid": 2911735021,
+			"timestamp": 1542467162836
+		},
+		"most_recent_match": {
+			"mid": 3589412477,
+			"timestamp": 1600957882160
+		}
+	},
+	{
+		"id": "DAaBlMm8L-wLFhpoNNjaYZV89ChY4R0YFOp5jbrku6MaBCg",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "NylonCatnip",
+		"seconds": 4885,
+		"average_performance": 8.166666666666666,
+		"performance_sd": 1.5275252316519468,
+		"t_perf_avg": 12.333333333333334,
+		"t_perf_sd": 0.7637626158259734,
+		"oldest_match": {
+			"mid": 2912410686,
+			"timestamp": 1542542404675
+		},
+		"most_recent_match": {
+			"mid": 2944653201,
+			"timestamp": 1546434228031
+		}
+	},
+	{
+		"id": "KDRAGByGetLN9moK47DPpJxcr27GBiowow0UAEzG2JSOaO8",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "emmâ",
+		"seconds": 3861,
+		"average_performance": 0,
+		"performance_sd": 4.769696007084728,
+		"t_perf_avg": 3.5,
+		"t_perf_sd": 7.466592261534039,
+		"oldest_match": {
+			"mid": 2966306816,
+			"timestamp": 1548968971627
+		},
+		"most_recent_match": {
+			"mid": 2966350030,
+			"timestamp": 1548972424699
+		}
+	},
+	{
+		"id": "XucJumv8D5ziIW1EU7sR86GeibKUP0N4dmvnrcW4aZqgBdc",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Semajof",
+		"seconds": 4020,
+		"average_performance": 3.8333333333333335,
+		"performance_sd": 5.507570547286102,
+		"t_perf_avg": 4.166666666666667,
+		"t_perf_sd": 3.6170890690351176,
+		"oldest_match": {
+			"mid": 2978099351,
+			"timestamp": 1550242504413
+		},
+		"most_recent_match": {
+			"mid": 2978131526,
+			"timestamp": 1550245782226
+		}
+	},
+	{
+		"id": "afUtXwWMehQfF04ViYGKutOYOxwq5KGYrfa5Q5XAQfLh",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Sir Appa",
+		"seconds": 5092,
+		"average_performance": 5.5,
+		"performance_sd": 7.399324293474371,
+		"t_perf_avg": 8.833333333333334,
+		"t_perf_sd": 11.250925887825113,
+		"oldest_match": {
+			"mid": 2978155307,
+			"timestamp": 1550254840754
+		},
+		"most_recent_match": {
+			"mid": 2978204546,
+			"timestamp": 1550260041460
+		}
+	},
+	{
+		"id": "HwoUl2Hhxn3QnB4PDzkVnijhj3PlOc2tYge_PGQAChU9RAc",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "JliuWho",
+		"seconds": 4724,
+		"average_performance": -1.3333333333333333,
+		"performance_sd": 4.368447474027053,
+		"t_perf_avg": 0.16666666666666666,
+		"t_perf_sd": 13.051181300301261,
+		"oldest_match": {
+			"mid": 2981549210,
+			"timestamp": 1550607273995
+		},
+		"most_recent_match": {
+			"mid": 2981580562,
+			"timestamp": 1550611146163
+		}
+	},
+	{
+		"id": "_DhD6UTUGTJEDeOdv7qLrxXy67kX1FFCjdN-mhztWZatDEY",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "shianne",
+		"seconds": 6246,
+		"average_performance": 7.166666666666667,
+		"performance_sd": 5.204164998665331,
+		"t_perf_avg": 8,
+		"t_perf_sd": 5.766281297335398,
+		"oldest_match": {
+			"mid": 2983148599,
+			"timestamp": 1550794747530
+		},
+		"most_recent_match": {
+			"mid": 2983273183,
+			"timestamp": 1550803646448
+		}
+	},
+	{
+		"id": "7fXmyhokyr7SmrZFWmwlOvHqqaiqoVy7b2bz4jTFEIDyU4c",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "TrashMundo6969",
+		"seconds": 2661,
+		"average_performance": 6.666666666666667,
+		"performance_sd": 7.234178138070234,
+		"t_perf_avg": 2.3333333333333335,
+		"t_perf_sd": 3.8188130791298667,
+		"oldest_match": {
+			"mid": 3006103183,
+			"timestamp": 1553469575525
+		},
+		"most_recent_match": {
+			"mid": 3006133354,
+			"timestamp": 1553472113809
+		}
+	},
+	{
+		"id": "-X7ZCe7rnfTCY9TzZAFDAHs4Gkvayomm10T_WbF9UETieWw",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "jsluks",
+		"seconds": 2661,
+		"average_performance": 1.3333333333333333,
+		"performance_sd": 3.1754264805429417,
+		"t_perf_avg": 2.3333333333333335,
+		"t_perf_sd": 3.8188130791298667,
+		"oldest_match": {
+			"mid": 3006103183,
+			"timestamp": 1553469575525
+		},
+		"most_recent_match": {
+			"mid": 3006133354,
+			"timestamp": 1553472113809
+		}
+	},
+	{
+		"id": "ULm5bfirhDnsDPwrcXWJQysfcHVnynyHkMEVZ1ntLuaWaOY",
+		"times": 3,
+		"wins": 0,
+		"losses": 3,
+		"name": "Gone Bad",
+		"seconds": 4781,
+		"average_performance": 1,
+		"performance_sd": 2.6457513110645907,
+		"t_perf_avg": 7.5,
+		"t_perf_sd": 5.267826876426369,
+		"oldest_match": {
+			"mid": 3102575737,
+			"timestamp": 1563823891305
+		},
+		"most_recent_match": {
+			"mid": 3104711249,
+			"timestamp": 1563999928476
+		}
+	},
+	{
+		"id": "OlnyRK1hmfEyQe6VfutA_tYn-UbC9xjtdD2v_b-w8vuscF8",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Leigon",
+		"seconds": 5576,
+		"average_performance": 5,
+		"performance_sd": 2.5,
+		"t_perf_avg": 5.166666666666667,
+		"t_perf_sd": 7.505553499465135,
+		"oldest_match": {
+			"mid": 3119250451,
+			"timestamp": 1565399012934
+		},
+		"most_recent_match": {
+			"mid": 3119304735,
+			"timestamp": 1565404018619
+		}
+	},
+	{
+		"id": "oM851RrT8ZttaKsMRAyEDNAEpTJgfJjE8-daOVKw-N3PRa8",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "NotSoCuteKouhai",
+		"seconds": 4895,
+		"average_performance": 1,
+		"performance_sd": 2.179449471770337,
+		"t_perf_avg": 10.833333333333334,
+		"t_perf_sd": 5.795112883571236,
+		"oldest_match": {
+			"mid": 3121211659,
+			"timestamp": 1565575266396
+		},
+		"most_recent_match": {
+			"mid": 3207614995,
+			"timestamp": 1573866450677
+		}
+	},
+	{
+		"id": "PaDDO9ZlU5ml8TP4YGmHRjWH9ovSC4It5tzN9jxB5IZvebo",
+		"times": 3,
+		"wins": 0,
+		"losses": 3,
+		"name": "Śpark",
+		"seconds": 4786,
+		"average_performance": 9.166666666666666,
+		"performance_sd": 1.2583057392117918,
+		"t_perf_avg": -2.1666666666666665,
+		"t_perf_sd": 10.408329997330663,
+		"oldest_match": {
+			"mid": 3128555960,
+			"timestamp": 1566262282833
+		},
+		"most_recent_match": {
+			"mid": 3128598772,
+			"timestamp": 1566266221891
+		}
+	},
+	{
+		"id": "slBmu2C0QNhKJpPecpVrD-cIX8p2NC4_XeSTYE2CvgBACho",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "routuro",
+		"seconds": 4829,
+		"average_performance": -3.6666666666666665,
+		"performance_sd": 1.607275126832159,
+		"t_perf_avg": 1.8333333333333333,
+		"t_perf_sd": 12.045054310103103,
+		"oldest_match": {
+			"mid": 3129127503,
+			"timestamp": 1566333572716
+		},
+		"most_recent_match": {
+			"mid": 3320651608,
+			"timestamp": 1583888020993
+		}
+	},
+	{
+		"id": "AfjQBVef3UzGVUkJ_MCFGmiyeJ5YFId7PffWMP9zVXYT6uk",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "Jamz69",
+		"seconds": 3420,
+		"average_performance": 7,
+		"performance_sd": 3.278719262151,
+		"t_perf_avg": 5.5,
+		"t_perf_sd": 5.291502622129181,
+		"oldest_match": {
+			"mid": 3142125494,
+			"timestamp": 1567622085950
+		},
+		"most_recent_match": {
+			"mid": 3142151203,
+			"timestamp": 1567624789806
+		}
+	},
+	{
+		"id": "bUytBWB7aUoDvh631Wer7_yCWfh7oSqwmP0OFJsCNYOjR10",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "Tophatwhale",
+		"seconds": 3420,
+		"average_performance": 10.666666666666666,
+		"performance_sd": 6.331139971074193,
+		"t_perf_avg": 5.5,
+		"t_perf_sd": 5.291502622129181,
+		"oldest_match": {
+			"mid": 3142125494,
+			"timestamp": 1567622085950
+		},
+		"most_recent_match": {
+			"mid": 3142151203,
+			"timestamp": 1567624789806
+		}
+	},
+	{
+		"id": "hVVEuMF_u092pL4HEEzcJp8oh7w0k08Ai5wRGZPIVDtvmQc",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Ęiji",
+		"seconds": 5299,
+		"average_performance": 1.6666666666666667,
+		"performance_sd": 12.168949557514539,
+		"t_perf_avg": 2.5,
+		"t_perf_sd": 2.7838821814150108,
+		"oldest_match": {
+			"mid": 3155921207,
+			"timestamp": 1569162829536
+		},
+		"most_recent_match": {
+			"mid": 3155968601,
+			"timestamp": 1569167394318
+		}
+	},
+	{
+		"id": "s2-b5aPvK8WGkzMt0MiSlmX3DcAkGAshO3ENncFu5_6CKe1x",
+		"times": 3,
+		"wins": 3,
+		"losses": 0,
+		"name": "Bobibobibob123",
+		"seconds": 5476,
+		"average_performance": 8.666666666666666,
+		"performance_sd": 3.214550253664318,
+		"t_perf_avg": 7.5,
+		"t_perf_sd": 3.122498999199199,
+		"oldest_match": {
+			"mid": 3274843352,
+			"timestamp": 1579878703183
+		},
+		"most_recent_match": {
+			"mid": 3288938565,
+			"timestamp": 1581099535351
+		}
+	},
+	{
+		"id": "S5qDzBc68yIfqUHFXa7gDSOyKBBCKg0sleHpS2jLnN-uNr8",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Flesh Orbs ",
+		"seconds": 4719,
+		"average_performance": 0.16666666666666666,
+		"performance_sd": 1.2583057392117918,
+		"t_perf_avg": 4.833333333333333,
+		"t_perf_sd": 10.128343069492331,
+		"oldest_match": {
+			"mid": 3316600646,
+			"timestamp": 1583533652770
+		},
+		"most_recent_match": {
+			"mid": 3316578686,
+			"timestamp": 1583537352835
+		}
+	},
+	{
+		"id": "omnxhq_P0v_sjJhfoEI6h8Ue0_8gAtzEA18nEVnrHi_-7pg",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "peep off",
+		"seconds": 4719,
+		"average_performance": 5.666666666666667,
+		"performance_sd": 3.6170890690351176,
+		"t_perf_avg": 4.833333333333333,
+		"t_perf_sd": 10.128343069492331,
+		"oldest_match": {
+			"mid": 3316600646,
+			"timestamp": 1583533652770
+		},
+		"most_recent_match": {
+			"mid": 3316578686,
+			"timestamp": 1583537352835
+		}
+	},
+	{
+		"id": "hU75uE9fwKI4Ispkr6JvlnZVhpykp827TGm7AtM6_78t8LM",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Noble Halcyon",
+		"seconds": 4719,
+		"average_performance": 6.666666666666667,
+		"performance_sd": 6.5255906501506304,
+		"t_perf_avg": 4.833333333333333,
+		"t_perf_sd": 10.128343069492331,
+		"oldest_match": {
+			"mid": 3316600646,
+			"timestamp": 1583533652770
+		},
+		"most_recent_match": {
+			"mid": 3316578686,
+			"timestamp": 1583537352835
+		}
+	},
+	{
+		"id": "FpSHwdSTpds-7anXxS9NfcVhPK9gYLgveNwQpvrXGpsQ22M",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Little Bones",
+		"seconds": 4391,
+		"average_performance": 8.833333333333334,
+		"performance_sd": 6.506407098647712,
+		"t_perf_avg": 10.833333333333334,
+		"t_perf_sd": 7.815582725128903,
+		"oldest_match": {
+			"mid": 3319791606,
+			"timestamp": 1583791722337
+		},
+		"most_recent_match": {
+			"mid": 3323744346,
+			"timestamp": 1584153030182
+		}
+	},
+	{
+		"id": "Dbl7TOoUBiYFPzKFvnP5vbzmCwYqYNNyiFPlSDLwP-YOlZg",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Small Bones",
+		"seconds": 4391,
+		"average_performance": 10.333333333333334,
+		"performance_sd": 10.750968948580093,
+		"t_perf_avg": 10.833333333333334,
+		"t_perf_sd": 7.815582725128903,
+		"oldest_match": {
+			"mid": 3319791606,
+			"timestamp": 1583791722337
+		},
+		"most_recent_match": {
+			"mid": 3323744346,
+			"timestamp": 1584153030182
+		}
+	},
+	{
+		"id": "TaJ9U4wkFMtCPzLjoHRtn_bvKjYgS68ywG4uUpkWQf2__3Q",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "ThorsHonor",
+		"seconds": 5305,
+		"average_performance": 6.333333333333333,
+		"performance_sd": 11.250925887825115,
+		"t_perf_avg": 19,
+		"t_perf_sd": 7,
+		"oldest_match": {
+			"mid": 3324215725,
+			"timestamp": 1584203960926
+		},
+		"most_recent_match": {
+			"mid": 3358069731,
+			"timestamp": 1585936664909
+		}
+	},
+	{
+		"id": "LR0bm_P_8HNUunxO__OgeMoB8u9Izj1ZRa312UQKD-Aq128",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "The True Ahri",
+		"seconds": 4931,
+		"average_performance": 4.333333333333333,
+		"performance_sd": 1.4433756729740643,
+		"t_perf_avg": 1.8333333333333333,
+		"t_perf_sd": 5.9651767227244274,
+		"oldest_match": {
+			"mid": 3358247712,
+			"timestamp": 1585944283573
+		},
+		"most_recent_match": {
+			"mid": 3358318125,
+			"timestamp": 1585948155444
+		}
+	},
+	{
+		"id": "o7fDuIAN5sa3xFHS-wmEHRtvIWqoTGPVqwQ20IY4tErhhRA",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Aplox",
+		"seconds": 3800,
+		"average_performance": 16,
+		"performance_sd": 7.365459931328117,
+		"t_perf_avg": 9.166666666666666,
+		"t_perf_sd": 5.251983752196244,
+		"oldest_match": {
+			"mid": 3431766830,
+			"timestamp": 1590176077979
+		},
+		"most_recent_match": {
+			"mid": 3431862927,
+			"timestamp": 1590179055353
+		}
+	},
+	{
+		"id": "u69MV2U2xsap8SYrzBY1sUfmdQmvpqo0JGY6vpi4BZ9RMA3e",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "JazzyMoose",
+		"seconds": 3566,
+		"average_performance": 4.5,
+		"performance_sd": 5.196152422706632,
+		"t_perf_avg": 4.333333333333333,
+		"t_perf_sd": 6.751543033509697,
+		"oldest_match": {
+			"mid": 3473424863,
+			"timestamp": 1593101836006
+		},
+		"most_recent_match": {
+			"mid": 3824294537,
+			"timestamp": 1615679191356
+		}
+	},
+	{
+		"id": "nXsK2dHEoELfdpx3mFrv-cVwGW5Yl8nrFcON86dO7z-zc74",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "swooshy",
+		"seconds": 3612,
+		"average_performance": 13.333333333333334,
+		"performance_sd": 13.419513155600443,
+		"t_perf_avg": 3.8333333333333335,
+		"t_perf_sd": 9.073771725877465,
+		"oldest_match": {
+			"mid": 3626779330,
+			"timestamp": 1603271483546
+		},
+		"most_recent_match": {
+			"mid": 3713256028,
+			"timestamp": 1608525477165
+		}
+	},
+	{
+		"id": "3VWWBmevTB2aihog-jkcoZjFvt8vaFUmgcZxeh1u7KChpw0",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "ØrgasmicØutplays",
+		"seconds": 6328,
+		"average_performance": 3.1666666666666665,
+		"performance_sd": 4.856267428111155,
+		"t_perf_avg": 1.6666666666666667,
+		"t_perf_sd": 6.027713773341708,
+		"oldest_match": {
+			"mid": 3646141592,
+			"timestamp": 1604426932090
+		},
+		"most_recent_match": {
+			"mid": 3646325690,
+			"timestamp": 1604443359605
+		}
+	},
+	{
+		"id": "9jjltYLQITs_pQDcjVumubCqP7or5cxtupmKvJ9ZH0GL3tg",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "TitanicEcho",
+		"seconds": 5917,
+		"average_performance": 9.166666666666666,
+		"performance_sd": 9.169696468985945,
+		"t_perf_avg": 4,
+		"t_perf_sd": 10.476163419878482,
+		"oldest_match": {
+			"mid": 3652271043,
+			"timestamp": 1604783901785
+		},
+		"most_recent_match": {
+			"mid": 3652401275,
+			"timestamp": 1604789542383
+		}
+	},
+	{
+		"id": "WhnxgxyKGF14Os9rAJI8zkEA1S7iW1CPK0808eqxPgpnUZI",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "DîzzyDreamer",
+		"seconds": 5917,
+		"average_performance": 5.166666666666667,
+		"performance_sd": 10.275375094532235,
+		"t_perf_avg": 4,
+		"t_perf_sd": 10.476163419878482,
+		"oldest_match": {
+			"mid": 3652271043,
+			"timestamp": 1604783901785
+		},
+		"most_recent_match": {
+			"mid": 3652401275,
+			"timestamp": 1604789542383
+		}
+	},
+	{
+		"id": "WpT4LYoddDA7bbrSbE4-ckZV94CLCsUHa-wIrv1bfnuFHgikdjLzY4w-Xw",
+		"times": 3,
+		"wins": 3,
+		"losses": 0,
+		"name": "Etheral Prince",
+		"seconds": 4556,
+		"average_performance": 11,
+		"performance_sd": 9.260129588726068,
+		"t_perf_avg": 1.3333333333333333,
+		"t_perf_sd": 10.32392044396572,
+		"oldest_match": {
+			"mid": 3655534852,
+			"timestamp": 1604963132133
+		},
+		"most_recent_match": {
+			"mid": 3655606058,
+			"timestamp": 1604967343016
+		}
+	},
+	{
+		"id": "ef-JM5qKLN6JAk2w9tcJOuF-NxI_6aUiFXW_aNB_uevnIlY",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "MGF",
+		"seconds": 5250,
+		"average_performance": 6,
+		"performance_sd": 7.088723439378913,
+		"t_perf_avg": 6.166666666666667,
+		"t_perf_sd": 7.147260547463855,
+		"oldest_match": {
+			"mid": 3663551957,
+			"timestamp": 1605379683751
+		},
+		"most_recent_match": {
+			"mid": 3663591822,
+			"timestamp": 1605384629458
+		}
+	},
+	{
+		"id": "rik6Gm7k4m4jL3TjcPGSGFUE52V5PUnxxZGsE3eyk4spAyk",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Eredar Lord J",
+		"seconds": 4710,
+		"average_performance": 7,
+		"performance_sd": 5.678908345800274,
+		"t_perf_avg": 6.166666666666667,
+		"t_perf_sd": 5.575242894559244,
+		"oldest_match": {
+			"mid": 3717324883,
+			"timestamp": 1608818985347
+		},
+		"most_recent_match": {
+			"mid": 3717400122,
+			"timestamp": 1608823691214
+		}
+	},
+	{
+		"id": "WwK5w4YDGZtJrobHBhwilOBUrfaXtaHY974vS1SNF5RHfwpU",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "BOMBERGIRL123",
+		"seconds": 5128,
+		"average_performance": 8.333333333333334,
+		"performance_sd": 8.311638426527788,
+		"t_perf_avg": -0.3333333333333333,
+		"t_perf_sd": 1.4433756729740645,
+		"oldest_match": {
+			"mid": 3766797165,
+			"timestamp": 1612047749191
+		},
+		"most_recent_match": {
+			"mid": 3766888733,
+			"timestamp": 1612052822264
+		}
+	},
+	{
+		"id": "1OKJoyLJhS8VQzGJkAJf9d5HDAGhHQyyos03X8oD8ybfr7zF",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "in flore",
+		"seconds": 5128,
+		"average_performance": 2.3333333333333335,
+		"performance_sd": 6.825198409814424,
+		"t_perf_avg": -0.3333333333333333,
+		"t_perf_sd": 1.4433756729740645,
+		"oldest_match": {
+			"mid": 3766797165,
+			"timestamp": 1612047749191
+		},
+		"most_recent_match": {
+			"mid": 3766888733,
+			"timestamp": 1612052822264
+		}
+	},
+	{
+		"id": "Ztcxs1y5wHnLPyUUTsOAWl-tk1XTXDu_HskyPizdgclbI0M",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "harrys pot",
+		"seconds": 4018,
+		"average_performance": 12.666666666666666,
+		"performance_sd": 7.58836829188814,
+		"t_perf_avg": 14.5,
+		"t_perf_sd": 7,
+		"oldest_match": {
+			"mid": 3767166585,
+			"timestamp": 1612064871961
+		},
+		"most_recent_match": {
+			"mid": 3767218104,
+			"timestamp": 1612067867478
+		}
+	},
+	{
+		"id": "KofFTbDL0LufrEIbgmigSlin6yVOmcURIbOp0q8MUKMFkbI",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "Mugetsu",
+		"seconds": 5252,
+		"average_performance": 1,
+		"performance_sd": 0.8660254037844386,
+		"t_perf_avg": -0.6666666666666666,
+		"t_perf_sd": 2.5166114784235836,
+		"oldest_match": {
+			"mid": 3781028780,
+			"timestamp": 1612906025558
+		},
+		"most_recent_match": {
+			"mid": 3808112623,
+			"timestamp": 1614639818117
+		}
+	},
+	{
+		"id": "hopxK5ieQSfI0ENmAhsVy3-sk3vEsSZjYiFaLy7UnuRP9tm9DyxD-WX4yw",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "Chickidees",
+		"seconds": 2348,
+		"average_performance": 2.1666666666666665,
+		"performance_sd": 7.847504911329036,
+		"t_perf_avg": 12,
+		"t_perf_sd": 18.35755975068582,
+		"oldest_match": {
+			"mid": 3856836923,
+			"timestamp": 1617766633825
+		},
+		"most_recent_match": {
+			"mid": 3856902704,
+			"timestamp": 1617768063051
+		}
+	},
+	{
+		"id": "Bpdv4osNEdyXr0AZzM-C6kaVx0TItlWIH_plAR1fYl93Ah0a",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "Caerawr",
+		"seconds": 2348,
+		"average_performance": 3.6666666666666665,
+		"performance_sd": 9.54375886814694,
+		"t_perf_avg": 12,
+		"t_perf_sd": 18.35755975068582,
+		"oldest_match": {
+			"mid": 3856836923,
+			"timestamp": 1617766633825
+		},
+		"most_recent_match": {
+			"mid": 3856902704,
+			"timestamp": 1617768063051
+		}
+	},
+	{
+		"id": "JYb_Pgcl-qVJu3EAKsIX6Iz__b5TplI6samVp1QeXUkIIfI",
+		"times": 3,
+		"wins": 1,
+		"losses": 2,
+		"name": "SenseiOfGodz",
+		"seconds": 2348,
+		"average_performance": 5.5,
+		"performance_sd": 7.858116822750856,
+		"t_perf_avg": 12,
+		"t_perf_sd": 18.35755975068582,
+		"oldest_match": {
+			"mid": 3856836923,
+			"timestamp": 1617766633825
+		},
+		"most_recent_match": {
+			"mid": 3856902704,
+			"timestamp": 1617768063051
+		}
+	},
+	{
+		"id": "Jm4v_jh16vH3KoC5J7Neas3uqZuiXy5a8hoWyPpy-OjVSvs",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "Paynie",
+		"seconds": 3086,
+		"average_performance": 6.666666666666667,
+		"performance_sd": 12.583057392117915,
+		"t_perf_avg": 7.833333333333333,
+		"t_perf_sd": 10.866615541802027,
+		"oldest_match": {
+			"mid": 3860402989,
+			"timestamp": 1618018456196
+		},
+		"most_recent_match": {
+			"mid": 3875896125,
+			"timestamp": 1619034042874
+		}
+	},
+	{
+		"id": "kRiMHx4WtHQ5uEn4PdX97oapS1AHKf1QR6JMHx0DHt-kYq8",
+		"times": 3,
+		"wins": 2,
+		"losses": 1,
+		"name": "BlameMyJungler",
+		"seconds": 3856,
+		"average_performance": 15.166666666666666,
+		"performance_sd": 3.253203549323856,
+		"t_perf_avg": 11.666666666666666,
+		"t_perf_sd": 6.8068592855540455,
+		"oldest_match": {
+			"mid": 4141875591,
+			"timestamp": 1639680603000
+		},
+		"most_recent_match": {
+			"mid": 4141910947,
+			"timestamp": 1639683629000
+		}
+	},
+	{
+		"id": "_gy12fTMTUjzqc7TwOeArCblbb0C7-U_pTwchA1uL4YGrtE",
+		"times": 3,
+		"wins": 3,
+		"losses": 0,
+		"name": "Asagiri",
+		"seconds": 5709,
+		"average_performance": 7.666666666666667,
+		"performance_sd": 7.285830998131464,
+		"t_perf_avg": 3.3333333333333335,
+		"t_perf_sd": 4.725815626252609,
+		"oldest_match": {
+			"mid": 4165719125,
+			"timestamp": 1641417024000
+		},
+		"most_recent_match": {
+			"mid": 4165769565,
+			"timestamp": 1641421661000
+		}
+	}
+]

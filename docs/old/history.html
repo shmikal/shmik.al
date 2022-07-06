@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Shmikal LoL Personal Stats</title>
+	<meta charset="utf-8">
+	<meta name="description" content="Comprehensive statistics for Shmikal, LoL NA server. Created by iaace">
+	<meta name="creator" content="iaace">
+	<link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<link rel="stylesheet" type="text/css" href="simple-grid.css">
+	<!--<link rel="stylesheet" type="text/css" href="bootstrap.min.css">-->
+	<script defer src="timeago.full.min.js"></script>
+	<script defer src="history.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157158466-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-157158466-1');
+	</script>
+</head>
+
+<body>
+	<h1 style="text-align:center;">Full Match History</h1>
+	<div style="text-align:center;">Created by iaace<br> Now available in <span style="color: #24b39d">Platinum</span><br>also, happy birthday 🎂<br><span style="font-size:0.75em;">Kindly excuse any incompetence on my part.</span><br><br>Games taken from Shmikal's NA match history only. Usernames may be outdated.</div>
+	<br><br>
+
+	<div class="container" id="match-history-container">
+		<div class="row">
+			<div class="col-6"><a onclick="setEntriesPerPage(10);">10</a>&nbsp;&nbsp;<a onclick="setEntriesPerPage(50);">50</a>&nbsp;&nbsp;<a onclick="setEntriesPerPage(100);">100</a>&nbsp;&nbsp;⚠️<a onclick="setEntriesPerPage(500);">500</a>&nbsp;&nbsp;⚠️<a onclick="setEntriesPerPage(1000);">1000</a>&nbsp;&nbsp;⚠️<a onclick="setEntriesPerPage(5000);">5000</a>&nbsp;&nbsp;⚠️<a onclick="setEntriesPerPage(10000);">10000</a></div>
+		</div>
+		<div class="row" id="options">
+			<div class="col-4">
+				Matches per Page: <input id="entries-per-page" type="number" min=1 step=1 value=10 style="width:80px;">
+				Page: <input id="page-number" type="number" min=1 step=1 value=1 style="width:80px;"> <button type="button" onclick="loadHistory();">Go</button>
+			</div>
+			<div class="col-4 tac">
+				<button type="button" onclick="firstPage();">First Page</button> <button type="button" onclick="previousPage();">Previous Page</button> <button type="button" onclick="nextPage();">Next Page</button> <button type="button" onclick="lastPage();">Last Page</button>
+			</div>
+			<div class="col-4 tar">
+				<span id="result-count"></span>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12" id="match-history">
+			</div>
+		</div>
+	</div>
+
+	<p style="text-align: center;">iaace © 2020<br><br>This website isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games
+or anyone officially involved in producing or managing League of Legends.<br>League of Legends and Riot Games are
+trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.</p>
+</body>
+
+</html>

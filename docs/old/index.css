@@ -1,0 +1,287 @@
+body {
+    font-family: sans-serif;
+    color: #ddd;
+    background-color:#17181d;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    background-color: #17181d;
+    border: 1px solid #ccc;
+}
+th, td {
+    padding: 2px;
+}
+html { scroll-behavior: smooth; }
+
+a {
+    color: rgb(33, 180, 199);
+}
+
+a:visited {
+    color: #00bb66;
+}
+table th {
+    cursor: pointer;
+}
+
+.unsortable th {
+    cursor: auto;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.left {
+    flex: 0 0 45%;
+}
+
+.right {
+    flex: 1;
+}
+
+.left-full {
+    flex: 0 0 50%;
+}
+
+.right-full {
+    flex: 1;
+}
+
+.map {
+    /*background-image: url("http://ddragon.leagueoflegends.com/cdn/9.23.1/img/map/map11.png");
+    background-repeat: no-repeat;/*
+    /*position: absolute!important;*/
+    width:512px;
+    height:512px;
+}
+
+.rainbow {
+    /* Chrome, Safari, Opera */
+    -webkit-animation: rainbow 0.5s infinite;
+    /* Internet Explorer */
+    -ms-animation: rainbow 0.5s infinite;
+    /* Standar Syntax */
+    animation: rainbow 0.5s infinite;
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow{
+    0%{color: red;}
+    17%{color: orange;}
+    33%{color: yellow;}
+    50%{color: green;}
+    67%{color: blue;}
+    83%{color: purple;}
+    100%{color: red;}
+}
+/* Internet Explorer */
+@-ms-keyframes rainbow{
+    0%{color: red;}
+    17%{color: orange;}
+    33%{color: yellow;}
+    50%{color: green;}
+    67%{color: blue;}
+    83%{color: purple;}
+    100%{color: red;}
+}
+/* Standard Syntax */
+@keyframes rainbow{
+    0%{color: red;}
+    17%{color: orange;}
+    33%{color: yellow;}
+    50%{color: green;}
+    67%{color: blue;}
+    83%{color: purple;}
+    100%{color: red;}
+}
+
+
+@keyframes blink {
+50% {
+    opacity: 0.0;
+}
+}
+@-webkit-keyframes blink {
+50% {
+    opacity: 0.0;
+}
+}
+.blink {
+animation: blink 1s step-start 0s infinite;
+-webkit-animation: blink 1s step-start 0s infinite;
+}
+
+a[target="_blank"]::after {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+    filter: invert(1);
+    margin: 0 3px 0 5px;
+}
+
+img.champion-img {
+    width: 20px;
+    height: 20px;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: bottom;
+}
+
+img.champion-img-large {
+    width: 24px;
+    height: 24px;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: text-bottom;
+}
+
+img.champion-img-main {
+    width: 50px;
+    height: 50px;
+    margin: 1px;
+    padding: 0px;
+    vertical-align: text-bottom;
+    outline: 1px solid black;
+}
+
+tr:first-child>th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+img.item-img {
+    width: 24px;
+    height: 24px;
+    margin: 2px;
+    padding: 0px;
+    display: inline;
+    outline: 1px solid black;
+}
+
+img.spell-img {
+    width: 24px;
+    height: 24px;
+    margin: 2px;
+    padding: 0px;
+    display: inline;
+    outline: 1px solid black;
+}
+
+.five-line-stack {
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.player-name-stack {
+    font-size: 14px;
+    font-weight: lighter;
+    /*font-stretch: semi-condensed;*/
+}
+
+.player-name-stack img {
+    width: 16px;
+    height: 16px;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: bottom;
+}
+
+.player-name-stack .target {
+    /*text-decoration: underline;*/
+    font-weight: bold;
+}
+
+.single-match {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    /*height: 70px;*/
+}
+
+.single-match:hover {
+    cursor: pointer;
+}
+
+.cv {
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    align-content: start;
+    white-space: nowrap;
+    height: 80px;
+}
+
+.ch {
+    justify-content: center;
+}
+
+.match-victory {
+    background-color: rgba(64, 128, 255, 0.2);
+}
+.match-victory:hover {
+    background-color: rgba(64, 128, 255, 0.4);
+}
+
+.match-defeat {
+    background-color: rgba(255, 64, 64, 0.2);
+}
+.match-defeat:hover {
+    background-color: rgba(255, 64, 64, 0.4);
+}
+
+.tac {
+    text-align: center;
+}
+
+.tal {
+    text-align: left;
+}
+
+.tar {
+    text-align: right;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+    justify-content: right;
+}
+
+.flm {
+    float: left;
+    margin-left: 6px;
+}
+
+.frm {
+    float: right;
+    margin-right: 6px;
+}
+
+.lb {
+    outline: 1px solid black;
+}
+
+.rb {
+    outline-right: 1px solid black;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.multi-kill {
+    background-color: #ff392e;
+    white-space: nowrap;
+    padding: 1px;
+}
